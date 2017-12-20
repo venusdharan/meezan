@@ -1,0 +1,7 @@
+{
+    "basejs":"modules/table/js/",
+    "basecss":"modules/table/css/",
+    "basemain":["bloodgroup.js"],
+    "js":["datatables.min.js"],
+    "css":["datatables.bootstrap.min.css","table.css"]
+}

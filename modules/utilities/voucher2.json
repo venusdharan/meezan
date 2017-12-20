@@ -1,0 +1,7 @@
+{
+    "basejs":"modules/utilities/js/",
+    "basecss":"modules/utilities/css/",
+    "basemain":["voucher.js"],
+    "js":[],
+    "css":[]
+}

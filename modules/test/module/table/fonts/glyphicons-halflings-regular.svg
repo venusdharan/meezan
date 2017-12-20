@@ -1,0 +1,3029 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
+<svg xmlns="http://www.w3.org/2000/svg">
+<metadata></metadata>
+<defs>
+<font id="glyphicons_halflingsregular" horiz-adv-x="1200" >
+<font-face units-per-em="1200" ascent="960" descent="-240" />
+<missing-glyph horiz-adv-x="500" />
+<glyph horiz-adv-x="0" />
+<glyph horiz-adv-x="400" />
+<glyph unicode=" " />
+<glyph unicode="*" d="M600 1100q15 0 34 -1.5t30 -3.5l11 -1q10 -2 17.5 -10.5t7.5 -18.5v-224l158 158q7 7 18 8t19 -6l106 -106q7 -8 6 -19t-8 -18l-158 -158h224q10 0 18.5 -7.5t10.5 -17.5q6 -41 6 -75q0 -15 -1.5 -34t-3.5 -30l-1 -11q-2 -10 -10.5 -17.5t-18.5 -7.5h-224l158 -158 q7 -7 8 -18t-6 -19l-106 -106q-8 -7 -19 -6t-18 8l-158 158v-224q0 -10 -7.5 -18.5t-17.5 -10.5q-41 -6 -75 -6q-15 0 -34 1.5t-30 3.5l-11 1q-10 2 -17.5 10.5t-7.5 18.5v224l-158 -158q-7 -7 -18 -8t-19 6l-106 106q-7 8 -6 19t8 18l158 158h-224q-10 0 -18.5 7.5 t-10.5 17.5q-6 41 -6 75q0 15 1.5 34t3.5 30l1 11q2 10 10.5 17.5t18.5 7.5h224l-158 158q-7 7 -8 18t6 19l106 106q8 7 19 6t18 -8l158 -158v224q0 10 7.5 18.5t17.5 10.5q41 6 75 6z" />
+<glyph unicode="+" d="M450 1100h200q21 0 35.5 -14.5t14.5 -35.5v-350h350q21 0 35.5 -14.5t14.5 -35.5v-200q0 -21 -14.5 -35.5t-35.5 -14.5h-350v-350q0 -21 -14.5 -35.5t-35.5 -14.5h-200q-21 0 -35.5 14.5t-14.5 35.5v350h-350q-21 0 -35.5 14.5t-14.5 35.5v200q0 21 14.5 35.5t35.5 14.5 h350v350q0 21 14.5 35.5t35.5 14.5z" />
+<glyph unicode="&#xa0;" />
+<glyph unicode="&#xa5;" d="M825 1100h250q10 0 12.5 -5t-5.5 -13l-364 -364q-6 -6 -11 -18h268q10 0 13 -6t-3 -14l-120 -160q-6 -8 -18 -14t-22 -6h-125v-100h275q10 0 13 -6t-3 -14l-120 -160q-6 -8 -18 -14t-22 -6h-125v-174q0 -11 -7.5 -18.5t-18.5 -7.5h-148q-11 0 -18.5 7.5t-7.5 18.5v174 h-275q-10 0 -13 6t3 14l120 160q6 8 18 14t22 6h125v100h-275q-10 0 -13 6t3 14l120 160q6 8 18 14t22 6h118q-5 12 -11 18l-364 364q-8 8 -5.5 13t12.5 5h250q25 0 43 -18l164 -164q8 -8 18 -8t18 8l164 164q18 18 43 18z" />
+<glyph unicode="&#x2000;" horiz-adv-x="650" />
+<glyph unicode="&#x2001;" horiz-adv-x="1300" />
+<glyph unicode="&#x2002;" horiz-adv-x="650" />
+<glyph unicode="&#x2003;" horiz-adv-x="1300" />
+<glyph unicode="&#x2004;" horiz-adv-x="433" />
+<glyph unicode="&#x2005;" horiz-adv-x="325" />
+<glyph unicode="&#x2006;" horiz-adv-x="216" />
+<glyph unicode="&#x2007;" horiz-adv-x="216" />
+<glyph unicode="&#x2008;" horiz-adv-x="162" />
+<glyph unicode="&#x2009;" horiz-adv-x="260" />
+<glyph unicode="&#x200a;" horiz-adv-x="72" />
+<glyph unicode="&#x202f;" horiz-adv-x="260" />
+<glyph unicode="&#x205f;" horiz-adv-x="325" />
+<glyph unicode="&#x20ac;" d="M744 1198q242 0 354 -189q60 -104 66 -209h-181q0 45 -17.5 82.5t-43.5 61.5t-58 40.5t-60.5 24t-51.5 7.5q-19 0 -40.5 -5.5t-49.5 -20.5t-53 -38t-49 -62.5t-39 -89.5h379l-100 -100h-300q-6 -50 -6 -100h406l-100 -100h-300q9 -74 33 -132t52.5 -91t61.5 -54.5t59 -29 t47 -7.5q22 0 50.5 7.5t60.5 24.5t58 41t43.5 61t17.5 80h174q-30 -171 -128 -278q-107 -117 -274 -117q-206 0 -324 158q-36 48 -69 133t-45 204h-217l100 100h112q1 47 6 100h-218l100 100h134q20 87 51 153.5t62 103.5q117 141 297 141z" />
+<glyph unicode="&#x20bd;" d="M428 1200h350q67 0 120 -13t86 -31t57 -49.5t35 -56.5t17 -64.5t6.5 -60.5t0.5 -57v-16.5v-16.5q0 -36 -0.5 -57t-6.5 -61t-17 -65t-35 -57t-57 -50.5t-86 -31.5t-120 -13h-178l-2 -100h288q10 0 13 -6t-3 -14l-120 -160q-6 -8 -18 -14t-22 -6h-138v-175q0 -11 -5.5 -18 t-15.5 -7h-149q-10 0 -17.5 7.5t-7.5 17.5v175h-267q-10 0 -13 6t3 14l120 160q6 8 18 14t22 6h117v100h-267q-10 0 -13 6t3 14l120 160q6 8 18 14t22 6h117v475q0 10 7.5 17.5t17.5 7.5zM600 1000v-300h203q64 0 86.5 33t22.5 119q0 84 -22.5 116t-86.5 32h-203z" />
+<glyph unicode="&#x2212;" d="M250 700h800q21 0 35.5 -14.5t14.5 -35.5v-200q0 -21 -14.5 -35.5t-35.5 -14.5h-800q-21 0 -35.5 14.5t-14.5 35.5v200q0 21 14.5 35.5t35.5 14.5z" />
+<glyph unicode="&#x231b;" d="M1000 1200v-150q0 -21 -14.5 -35.5t-35.5 -14.5h-50v-100q0 -91 -49.5 -165.5t-130.5 -109.5q81 -35 130.5 -109.5t49.5 -165.5v-150h50q21 0 35.5 -14.5t14.5 -35.5v-150h-800v150q0 21 14.5 35.5t35.5 14.5h50v150q0 91 49.5 165.5t130.5 109.5q-81 35 -130.5 109.5 t-49.5 165.5v100h-50q-21 0 -35.5 14.5t-14.5 35.5v150h800zM400 1000v-100q0 -60 32.5 -109.5t87.5 -73.5q28 -12 44 -37t16 -55t-16 -55t-44 -37q-55 -24 -87.5 -73.5t-32.5 -109.5v-150h400v150q0 60 -32.5 109.5t-87.5 73.5q-28 12 -44 37t-16 55t16 55t44 37 q55 24 87.5 73.5t32.5 109.5v100h-400z" />
+<glyph unicode="&#x25fc;" horiz-adv-x="500" d="M0 0z" />
+<glyph unicode="&#x2601;" d="M503 1089q110 0 200.5 -59.5t134.5 -156.5q44 14 90 14q120 0 205 -86.5t85 -206.5q0 -121 -85 -207.5t-205 -86.5h-750q-79 0 -135.5 57t-56.5 137q0 69 42.5 122.5t108.5 67.5q-2 12 -2 37q0 153 108 260.5t260 107.5z" />
+<glyph unicode="&#x26fa;" d="M774 1193.5q16 -9.5 20.5 -27t-5.5 -33.5l-136 -187l467 -746h30q20 0 35 -18.5t15 -39.5v-42h-1200v42q0 21 15 39.5t35 18.5h30l468 746l-135 183q-10 16 -5.5 34t20.5 28t34 5.5t28 -20.5l111 -148l112 150q9 16 27 20.5t34 -5zM600 200h377l-182 112l-195 534v-646z " />
+<glyph unicode="&#x2709;" d="M25 1100h1150q10 0 12.5 -5t-5.5 -13l-564 -567q-8 -8 -18 -8t-18 8l-564 567q-8 8 -5.5 13t12.5 5zM18 882l264 -264q8 -8 8 -18t-8 -18l-264 -264q-8 -8 -13 -5.5t-5 12.5v550q0 10 5 12.5t13 -5.5zM918 618l264 264q8 8 13 5.5t5 -12.5v-550q0 -10 -5 -12.5t-13 5.5 l-264 264q-8 8 -8 18t8 18zM818 482l364 -364q8 -8 5.5 -13t-12.5 -5h-1150q-10 0 -12.5 5t5.5 13l364 364q8 8 18 8t18 -8l164 -164q8 -8 18 -8t18 8l164 164q8 8 18 8t18 -8z" />
+<glyph unicode="&#x270f;" d="M1011 1210q19 0 33 -13l153 -153q13 -14 13 -33t-13 -33l-99 -92l-214 214l95 96q13 14 32 14zM1013 800l-615 -614l-214 214l614 614zM317 96l-333 -112l110 335z" />
+<glyph unicode="&#xe001;" d="M700 650v-550h250q21 0 35.5 -14.5t14.5 -35.5v-50h-800v50q0 21 14.5 35.5t35.5 14.5h250v550l-500 550h1200z" />
+<glyph unicode="&#xe002;" d="M368 1017l645 163q39 15 63 0t24 -49v-831q0 -55 -41.5 -95.5t-111.5 -63.5q-79 -25 -147 -4.5t-86 75t25.5 111.5t122.5 82q72 24 138 8v521l-600 -155v-606q0 -42 -44 -90t-109 -69q-79 -26 -147 -5.5t-86 75.5t25.5 111.5t122.5 82.5q72 24 138 7v639q0 38 14.5 59 t53.5 34z" />
+<glyph unicode="&#xe003;" d="M500 1191q100 0 191 -39t156.5 -104.5t104.5 -156.5t39 -191l-1 -2l1 -5q0 -141 -78 -262l275 -274q23 -26 22.5 -44.5t-22.5 -42.5l-59 -58q-26 -20 -46.5 -20t-39.5 20l-275 274q-119 -77 -261 -77l-5 1l-2 -1q-100 0 -191 39t-156.5 104.5t-104.5 156.5t-39 191 t39 191t104.5 156.5t156.5 104.5t191 39zM500 1022q-88 0 -162 -43t-117 -117t-43 -162t43 -162t117 -117t162 -43t162 43t117 117t43 162t-43 162t-117 117t-162 43z" />
+<glyph unicode="&#xe005;" d="M649 949q48 68 109.5 104t121.5 38.5t118.5 -20t102.5 -64t71 -100.5t27 -123q0 -57 -33.5 -117.5t-94 -124.5t-126.5 -127.5t-150 -152.5t-146 -174q-62 85 -145.5 174t-150 152.5t-126.5 127.5t-93.5 124.5t-33.5 117.5q0 64 28 123t73 100.5t104 64t119 20 t120.5 -38.5t104.5 -104z" />
+<glyph unicode="&#xe006;" d="M407 800l131 353q7 19 17.5 19t17.5 -19l129 -353h421q21 0 24 -8.5t-14 -20.5l-342 -249l130 -401q7 -20 -0.5 -25.5t-24.5 6.5l-343 246l-342 -247q-17 -12 -24.5 -6.5t-0.5 25.5l130 400l-347 251q-17 12 -14 20.5t23 8.5h429z" />
+<glyph unicode="&#xe007;" d="M407 800l131 353q7 19 17.5 19t17.5 -19l129 -353h421q21 0 24 -8.5t-14 -20.5l-342 -249l130 -401q7 -20 -0.5 -25.5t-24.5 6.5l-343 246l-342 -247q-17 -12 -24.5 -6.5t-0.5 25.5l130 400l-347 251q-17 12 -14 20.5t23 8.5h429zM477 700h-240l197 -142l-74 -226 l193 139l195 -140l-74 229l192 140h-234l-78 211z" />
+<glyph unicode="&#xe008;" d="M600 1200q124 0 212 -88t88 -212v-250q0 -46 -31 -98t-69 -52v-75q0 -10 6 -21.5t15 -17.5l358 -230q9 -5 15 -16.5t6 -21.5v-93q0 -10 -7.5 -17.5t-17.5 -7.5h-1150q-10 0 -17.5 7.5t-7.5 17.5v93q0 10 6 21.5t15 16.5l358 230q9 6 15 17.5t6 21.5v75q-38 0 -69 52 t-31 98v250q0 124 88 212t212 88z" />
+<glyph unicode="&#xe009;" d="M25 1100h1150q10 0 17.5 -7.5t7.5 -17.5v-1050q0 -10 -7.5 -17.5t-17.5 -7.5h-1150q-10 0 -17.5 7.5t-7.5 17.5v1050q0 10 7.5 17.5t17.5 7.5zM100 1000v-100h100v100h-100zM875 1000h-550q-10 0 -17.5 -7.5t-7.5 -17.5v-350q0 -10 7.5 -17.5t17.5 -7.5h550 q10 0 17.5 7.5t7.5 17.5v350q0 10 -7.5 17.5t-17.5 7.5zM1000 1000v-100h100v100h-100zM100 800v-100h100v100h-100zM1000 800v-100h100v100h-100zM100 600v-100h100v100h-100zM1000 600v-100h100v100h-100zM875 500h-550q-10 0 -17.5 -7.5t-7.5 -17.5v-350q0 -10 7.5 -17.5 t17.5 -7.5h550q10 0 17.5 7.5t7.5 17.5v350q0 10 -7.5 17.5t-17.5 7.5zM100 400v-100h100v100h-100zM1000 400v-100h100v100h-100zM100 200v-100h100v100h-100zM1000 200v-100h100v100h-100z" />
+<glyph unicode="&#xe010;" d="M50 1100h400q21 0 35.5 -14.5t14.5 -35.5v-400q0 -21 -14.5 -35.5t-35.5 -14.5h-400q-21 0 -35.5 14.5t-14.5 35.5v400q0 21 14.5 35.5t35.5 14.5zM650 1100h400q21 0 35.5 -14.5t14.5 -35.5v-400q0 -21 -14.5 -35.5t-35.5 -14.5h-400q-21 0 -35.5 14.5t-14.5 35.5v400 q0 21 14.5 35.5t35.5 14.5zM50 500h400q21 0 35.5 -14.5t14.5 -35.5v-400q0 -21 -14.5 -35.5t-35.5 -14.5h-400q-21 0 -35.5 14.5t-14.5 35.5v400q0 21 14.5 35.5t35.5 14.5zM650 500h400q21 0 35.5 -14.5t14.5 -35.5v-400q0 -21 -14.5 -35.5t-35.5 -14.5h-400 q-21 0 -35.5 14.5t-14.5 35.5v400q0 21 14.5 35.5t35.5 14.5z" />
+<glyph unicode="&#xe011;" d="M50 1100h200q21 0 35.5 -14.5t14.5 -35.5v-200q0 -21 -14.5 -35.5t-35.5 -14.5h-200q-21 0 -35.5 14.5t-14.5 35.5v200q0 21 14.5 35.5t35.5 14.5zM450 1100h200q21 0 35.5 -14.5t14.5 -35.5v-200q0 -21 -14.5 -35.5t-35.5 -14.5h-200q-21 0 -35.5 14.5t-14.5 35.5v200 q0 21 14.5 35.5t35.5 14.5zM850 1100h200q21 0 35.5 -14.5t14.5 -35.5v-200q0 -21 -14.5 -35.5t-35.5 -14.5h-200q-21 0 -35.5 14.5t-14.5 35.5v200q0 21 14.5 35.5t35.5 14.5zM50 700h200q21 0 35.5 -14.5t14.5 -35.5v-200q0 -21 -14.5 -35.5t-35.5 -14.5h-200 q-21 0 -35.5 14.5t-14.5 35.5v200q0 21 14.5 35.5t35.5 14.5zM450 700h200q21 0 35.5 -14.5t14.5 -35.5v-200q0 -21 -14.5 -35.5t-35.5 -14.5h-200q-21 0 -35.5 14.5t-14.5 35.5v200q0 21 14.5 35.5t35.5 14.5zM850 700h200q21 0 35.5 -14.5t14.5 -35.5v-200 q0 -21 -14.5 -35.5t-35.5 -14.5h-200q-21 0 -35.5 14.5t-14.5 35.5v200q0 21 14.5 35.5t35.5 14.5zM50 300h200q21 0 35.5 -14.5t14.5 -35.5v-200q0 -21 -14.5 -35.5t-35.5 -14.5h-200q-21 0 -35.5 14.5t-14.5 35.5v200q0 21 14.5 35.5t35.5 14.5zM450 300h200 q21 0 35.5 -14.5t14.5 -35.5v-200q0 -21 -14.5 -35.5t-35.5 -14.5h-200q-21 0 -35.5 14.5t-14.5 35.5v200q0 21 14.5 35.5t35.5 14.5zM850 300h200q21 0 35.5 -14.5t14.5 -35.5v-200q0 -21 -14.5 -35.5t-35.5 -14.5h-200q-21 0 -35.5 14.5t-14.5 35.5v200q0 21 14.5 35.5 t35.5 14.5z" />
+<glyph unicode="&#xe012;" d="M50 1100h200q21 0 35.5 -14.5t14.5 -35.5v-200q0 -21 -14.5 -35.5t-35.5 -14.5h-200q-21 0 -35.5 14.5t-14.5 35.5v200q0 21 14.5 35.5t35.5 14.5zM450 1100h700q21 0 35.5 -14.5t14.5 -35.5v-200q0 -21 -14.5 -35.5t-35.5 -14.5h-700q-21 0 -35.5 14.5t-14.5 35.5v200 q0 21 14.5 35.5t35.5 14.5zM50 700h200q21 0 35.5 -14.5t14.5 -35.5v-200q0 -21 -14.5 -35.5t-35.5 -14.5h-200q-21 0 -35.5 14.5t-14.5 35.5v200q0 21 14.5 35.5t35.5 14.5zM450 700h700q21 0 35.5 -14.5t14.5 -35.5v-200q0 -21 -14.5 -35.5t-35.5 -14.5h-700 q-21 0 -35.5 14.5t-14.5 35.5v200q0 21 14.5 35.5t35.5 14.5zM50 300h200q21 0 35.5 -14.5t14.5 -35.5v-200q0 -21 -14.5 -35.5t-35.5 -14.5h-200q-21 0 -35.5 14.5t-14.5 35.5v200q0 21 14.5 35.5t35.5 14.5zM450 300h700q21 0 35.5 -14.5t14.5 -35.5v-200 q0 -21 -14.5 -35.5t-35.5 -14.5h-700q-21 0 -35.5 14.5t-14.5 35.5v200q0 21 14.5 35.5t35.5 14.5z" />
+<glyph unicode="&#xe013;" d="M465 477l571 571q8 8 18 8t17 -8l177 -177q8 -7 8 -17t-8 -18l-783 -784q-7 -8 -17.5 -8t-17.5 8l-384 384q-8 8 -8 18t8 17l177 177q7 8 17 8t18 -8l171 -171q7 -7 18 -7t18 7z" />
+<glyph unicode="&#xe014;" d="M904 1083l178 -179q8 -8 8 -18.5t-8 -17.5l-267 -268l267 -268q8 -7 8 -17.5t-8 -18.5l-178 -178q-8 -8 -18.5 -8t-17.5 8l-268 267l-268 -267q-7 -8 -17.5 -8t-18.5 8l-178 178q-8 8 -8 18.5t8 17.5l267 268l-267 268q-8 7 -8 17.5t8 18.5l178 178q8 8 18.5 8t17.5 -8 l268 -267l268 268q7 7 17.5 7t18.5 -7z" />
+<glyph unicode="&#xe015;" d="M507 1177q98 0 187.5 -38.5t154.5 -103.5t103.5 -154.5t38.5 -187.5q0 -141 -78 -262l300 -299q8 -8 8 -18.5t-8 -18.5l-109 -108q-7 -8 -17.5 -8t-18.5 8l-300 299q-119 -77 -261 -77q-98 0 -188 38.5t-154.5 103t-103 154.5t-38.5 188t38.5 187.5t103 154.5 t154.5 103.5t188 38.5zM506.5 1023q-89.5 0 -165.5 -44t-120 -120.5t-44 -166t44 -165.5t120 -120t165.5 -44t166 44t120.5 120t44 165.5t-44 166t-120.5 120.5t-166 44zM425 900h150q10 0 17.5 -7.5t7.5 -17.5v-75h75q10 0 17.5 -7.5t7.5 -17.5v-150q0 -10 -7.5 -17.5 t-17.5 -7.5h-75v-75q0 -10 -7.5 -17.5t-17.5 -7.5h-150q-10 0 -17.5 7.5t-7.5 17.5v75h-75q-10 0 -17.5 7.5t-7.5 17.5v150q0 10 7.5 17.5t17.5 7.5h75v75q0 10 7.5 17.5t17.5 7.5z" />
+<glyph unicode="&#xe016;" d="M507 1177q98 0 187.5 -38.5t154.5 -103.5t103.5 -154.5t38.5 -187.5q0 -141 -78 -262l300 -299q8 -8 8 -18.5t-8 -18.5l-109 -108q-7 -8 -17.5 -8t-18.5 8l-300 299q-119 -77 -261 -77q-98 0 -188 38.5t-154.5 103t-103 154.5t-38.5 188t38.5 187.5t103 154.5 t154.5 103.5t188 38.5zM506.5 1023q-89.5 0 -165.5 -44t-120 -120.5t-44 -166t44 -165.5t120 -120t165.5 -44t166 44t120.5 120t44 165.5t-44 166t-120.5 120.5t-166 44zM325 800h350q10 0 17.5 -7.5t7.5 -17.5v-150q0 -10 -7.5 -17.5t-17.5 -7.5h-350q-10 0 -17.5 7.5 t-7.5 17.5v150q0 10 7.5 17.5t17.5 7.5z" />
+<glyph unicode="&#xe017;" d="M550 1200h100q21 0 35.5 -14.5t14.5 -35.5v-400q0 -21 -14.5 -35.5t-35.5 -14.5h-100q-21 0 -35.5 14.5t-14.5 35.5v400q0 21 14.5 35.5t35.5 14.5zM800 975v166q167 -62 272 -209.5t105 -331.5q0 -117 -45.5 -224t-123 -184.5t-184.5 -123t-224 -45.5t-224 45.5 t-184.5 123t-123 184.5t-45.5 224q0 184 105 331.5t272 209.5v-166q-103 -55 -165 -155t-62 -220q0 -116 57 -214.5t155.5 -155.5t214.5 -57t214.5 57t155.5 155.5t57 214.5q0 120 -62 220t-165 155z" />
+<glyph unicode="&#xe018;" d="M1025 1200h150q10 0 17.5 -7.5t7.5 -17.5v-1150q0 -10 -7.5 -17.5t-17.5 -7.5h-150q-10 0 -17.5 7.5t-7.5 17.5v1150q0 10 7.5 17.5t17.5 7.5zM725 800h150q10 0 17.5 -7.5t7.5 -17.5v-750q0 -10 -7.5 -17.5t-17.5 -7.5h-150q-10 0 -17.5 7.5t-7.5 17.5v750 q0 10 7.5 17.5t17.5 7.5zM425 500h150q10 0 17.5 -7.5t7.5 -17.5v-450q0 -10 -7.5 -17.5t-17.5 -7.5h-150q-10 0 -17.5 7.5t-7.5 17.5v450q0 10 7.5 17.5t17.5 7.5zM125 300h150q10 0 17.5 -7.5t7.5 -17.5v-250q0 -10 -7.5 -17.5t-17.5 -7.5h-150q-10 0 -17.5 7.5t-7.5 17.5 v250q0 10 7.5 17.5t17.5 7.5z" />
+<glyph unicode="&#xe019;" d="M600 1174q33 0 74 -5l38 -152l5 -1q49 -14 94 -39l5 -2l134 80q61 -48 104 -105l-80 -134l3 -5q25 -44 39 -93l1 -6l152 -38q5 -43 5 -73q0 -34 -5 -74l-152 -38l-1 -6q-15 -49 -39 -93l-3 -5l80 -134q-48 -61 -104 -105l-134 81l-5 -3q-44 -25 -94 -39l-5 -2l-38 -151 q-43 -5 -74 -5q-33 0 -74 5l-38 151l-5 2q-49 14 -94 39l-5 3l-134 -81q-60 48 -104 105l80 134l-3 5q-25 45 -38 93l-2 6l-151 38q-6 42 -6 74q0 33 6 73l151 38l2 6q13 48 38 93l3 5l-80 134q47 61 105 105l133 -80l5 2q45 25 94 39l5 1l38 152q43 5 74 5zM600 815 q-89 0 -152 -63t-63 -151.5t63 -151.5t152 -63t152 63t63 151.5t-63 151.5t-152 63z" />
+<glyph unicode="&#xe020;" d="M500 1300h300q41 0 70.5 -29.5t29.5 -70.5v-100h275q10 0 17.5 -7.5t7.5 -17.5v-75h-1100v75q0 10 7.5 17.5t17.5 7.5h275v100q0 41 29.5 70.5t70.5 29.5zM500 1200v-100h300v100h-300zM1100 900v-800q0 -41 -29.5 -70.5t-70.5 -29.5h-700q-41 0 -70.5 29.5t-29.5 70.5 v800h900zM300 800v-700h100v700h-100zM500 800v-700h100v700h-100zM700 800v-700h100v700h-100zM900 800v-700h100v700h-100z" />
+<glyph unicode="&#xe021;" d="M18 618l620 608q8 7 18.5 7t17.5 -7l608 -608q8 -8 5.5 -13t-12.5 -5h-175v-575q0 -10 -7.5 -17.5t-17.5 -7.5h-250q-10 0 -17.5 7.5t-7.5 17.5v375h-300v-375q0 -10 -7.5 -17.5t-17.5 -7.5h-250q-10 0 -17.5 7.5t-7.5 17.5v575h-175q-10 0 -12.5 5t5.5 13z" />
+<glyph unicode="&#xe022;" d="M600 1200v-400q0 -41 29.5 -70.5t70.5 -29.5h300v-650q0 -21 -14.5 -35.5t-35.5 -14.5h-800q-21 0 -35.5 14.5t-14.5 35.5v1100q0 21 14.5 35.5t35.5 14.5h450zM1000 800h-250q-21 0 -35.5 14.5t-14.5 35.5v250z" />
+<glyph unicode="&#xe023;" d="M600 1177q117 0 224 -45.5t184.5 -123t123 -184.5t45.5 -224t-45.5 -224t-123 -184.5t-184.5 -123t-224 -45.5t-224 45.5t-184.5 123t-123 184.5t-45.5 224t45.5 224t123 184.5t184.5 123t224 45.5zM600 1027q-116 0 -214.5 -57t-155.5 -155.5t-57 -214.5t57 -214.5 t155.5 -155.5t214.5 -57t214.5 57t155.5 155.5t57 214.5t-57 214.5t-155.5 155.5t-214.5 57zM525 900h50q10 0 17.5 -7.5t7.5 -17.5v-275h175q10 0 17.5 -7.5t7.5 -17.5v-50q0 -10 -7.5 -17.5t-17.5 -7.5h-250q-10 0 -17.5 7.5t-7.5 17.5v350q0 10 7.5 17.5t17.5 7.5z" />
+<glyph unicode="&#xe024;" d="M1300 0h-538l-41 400h-242l-41 -400h-538l431 1200h209l-21 -300h162l-20 300h208zM515 800l-27 -300h224l-27 300h-170z" />
+<glyph unicode="&#xe025;" d="M550 1200h200q21 0 35.5 -14.5t14.5 -35.5v-450h191q20 0 25.5 -11.5t-7.5 -27.5l-327 -400q-13 -16 -32 -16t-32 16l-327 400q-13 16 -7.5 27.5t25.5 11.5h191v450q0 21 14.5 35.5t35.5 14.5zM1125 400h50q10 0 17.5 -7.5t7.5 -17.5v-350q0 -10 -7.5 -17.5t-17.5 -7.5 h-1050q-10 0 -17.5 7.5t-7.5 17.5v350q0 10 7.5 17.5t17.5 7.5h50q10 0 17.5 -7.5t7.5 -17.5v-175hosoft\\OneDrive\\OneDrive.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\xampp\\mysql\\bin\\mysql.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\Users\\Triophore-2\\AppData\\Local\\Android\\sdk1\\platform-tools\\adb.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\Program Files\\AVAST Software\\Avast\\Setup\\365ff0c0-eca9-4bfa-a49b-df16a8192899.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\Users\\Triophore-2\\AppData\\Local\\Android\\sdk1\\build-tools\\23.0.2\\aapt.exe"
+		},
+		{
+			"count" : 1,
+			"path" : "C:\\Users\\TRIOPH~1\\AppData\\Local\\Temp\\AcDeltree.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\Users\\TRIOPH~1\\AppData\\Local\\Temp\\367EBD88-3118-4860-9E35-70A2F55D50C4\\dismhost.exe"
+		},
+		{
+			"count" : 3,
+			"path" : "C:\\Users\\Triophore-2\\.AndroidStudio2.2\\system\\restart\\restarter.exe"
+		},
+		{
+			"count" : 1,
+			"path" : "f:\\c12fff9b14ddefceea57\\install.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\WINDOWS\\system32\\reg.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\WINDOWS\\system32\\find.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\WINDOWS\\Installer\\MSI700F.tmp"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\AMD\\WU-CCC2\\ccc2_install\\Support64\\CCC2App64.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\WINDOWS\\Microsoft.NET\\Framework\\v4.0.30319\\Ngen.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\Program Files (x86)\\Mozilla Thunderbird\\thunderbird.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\Users\\TRIOPH~1\\AppData\\Local\\Temp\\is-V72BQ.tmp\\Lumion_6_0.tmp"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\Program Files\\AVAST Software\\Avast\\aswWrcIELoader64.exe"
+		},
+		{
+			"count" : 4,
+			"path" : "C:\\NVPACK\\jdk1.7.0_71\\bin\\java.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\Program Files (x86)\\Google\\Update\\Install\\{03E4FA65-CC93-4077-A0D8-333D692EF53E}\\57.0.2987.133_56.0.2924.87_chrome_updater.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\Windows\\SysWOW64\\rundll32.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\Users\\TRIOPH~1\\AppData\\Local\\Android\\sdk1\\tools\\lib\\find_java64.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\Users\\TRIOPH~1\\AppData\\Local\\Temp\\D8947574-C84B-4A22-9A6C-04A9EB2C666A\\dismhost.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\Program Files\\Killer Networking\\Network Manager\\NetworkManager.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\Program Files (x86)\\Common Files\\SNP2UVC\\tsnp2uvc.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\Windows\\system32\\xcopy.exe"
+		},
+		{
+			"count" : 1,
+			"path" : "C:\\Program Files (x86)\\GUMA084.tmp\\GoogleUpdate.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\WINDOWS\\system32\\DrvInst.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\Program Files (x86)\\Google\\Update\\Install\\{D1C4CC2D-EBD4-4CD0-8969-85A99029F1C3}\\60.0.3112.90_59.0.3071.115_chrome_updater.exe"
+		},
+		{
+			"count" : 1,
+			"path" : "C:\\Program Files\\AVAST Software\\Avast\\Setup\\d1285eac-f17b-4c7d-a0ad-e5a8ec02b3a8.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\Windows\\System32\\WUDFHost.exe"
+		},
+		{
+			"count" : 2,
+			"path" : "C:\\Program Files\\Adobe\\Adobe After Effects CS6\\Support Files\\GPUSniffer.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\Users\\TRIOPH~1\\AppData\\Local\\Temp\\0AF89B5D-36D2-4987-99EF-ECDB8EF36CDD\\dismhost.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\xampp\\uninstall.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\Program Files (x86)\\Common Files\\Adobe\\dynamiclink\\CS6\\dynamiclinkmanager.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\Program Files\\Adobe\\Adobe After Effects CS6\\Support Files\\AfterFX.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\WINDOWS\\system32\\taskmgr.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\Program Files (x86)\\MSBuild\\12.0\\bin\\MSBuild.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\Windows\\Microsoft.NET\\Framework\\v4.0.30319\\mscorsvw.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\Program Files\\Microsoft Silverlight\\5.1.50907.0\\coregen.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\Users\\Triophore-2\\AppData\\Local\\Microsoft\\OneDrive\\17.3.6799.0327\\FileSyncConfig.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\Program Files (x86)\\FormatFactory\\FormatFactory.exe"
+		},
+		{
+			"count" : 1,
+			"path" : "C:\\Program Files (x86)\\AOMEI Backupper\\ABService.exe"
+		},
+		{
+			"count" : 3,
+			"path" : "C:\\Program Files (x86)\\FormatFactory\\FFModules\\Encoder\\MP4Box\\MP4Box.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\AMD\\Packages\\Apps\\Radeon-Crimson-ReLive-17.4.3-vc1532-170417WHQL\\vcredist_x86\\vcredist_x86.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\Users\\Triophore-2\\AppData\\Local\\Adobe\\OOBE\\PDApp\\DECore\\DE6\\resources\\libraries\\TokenResolverx64.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\Users\\TRIOPH~1\\AppData\\Local\\Temp\\is-TK6K6.tmp\\NetFxLite.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\Windows\\SysWOW64\\net.exe"
+		},
+		{
+			"count" : 10,
+			"path" : "f:\\arduino 1.8.1\\arduino-1.8.1\\hardware\\tools\\avr\\libexec\\gcc\\avr\\4.9.2\\cc1.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\Users\\TRIOPH~1\\AppData\\Local\\Temp\\is-F6IPN.tmp\\any-video-converter.tmp"
+		},
+		{
+			"count" : 1,
+			"path" : "C:\\Users\\Triophore-2\\AppData\\Local\\Microsoft\\OneDrive\\17.3.6798.0207\\FileSyncConfig.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\WINDOWS\\Installer\\MSI7838.tmp"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\ProgramData\\Package Cache\\{22154f09-719a-4619-bb71-5b3356999fbf}\\vcredist_x86.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\Users\\Triophore-2\\AppData\\Local\\Temp\\paket_F15AC51889DA4F30F90871B15EFB7EB71C7DD4FFDCA027D461F40A4F5AE91B23.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\Users\\TRIOPH~1\\AppData\\Local\\Temp\\is-6124A.tmp\\any-video-converter.tmp"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\WINDOWS\\Installer\\MSI9BF1.tmp"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\Program Files\\KMSnano\\KMSELDI.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\Program Files (x86)\\Anvsoft\\Any Video Converter Professional\\AVCPro.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\Program Files\\AVAST Software\\Avast\\aswRunDll.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\Program Files\\Java\\jre1.8.0_91\\bin\\javaw.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\Program Files (x86)\\Java\\jre1.8.0_91\\bin\\javaw.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\Program Files\\SketchUp\\SketchUp 2016\\SketchUp.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\Program Files\\Malwarebytes\\Anti-Malware\\assistant.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\WINDOWS\\SysWOW64\\LaunchWinApp.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\WINDOWS\\System32\\mobsync.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\Program Files (x86)\\Oracle\\JavaFX Scene Builder 2.0\\JavaFX Scene Builder 2.0.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\Program Files\\Python36\\python.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\Program Files\\Epic Games\\UE_4.15\\Engine\\Binaries\\Win64\\ShaderCompileWorker.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\WINDOWS\\Installer\\MSI26AC.tmp"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\Users\\Triophore-2\\Downloads\\Programs\\JavaSetup8u121.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\Users\\Triophore-2\\AppData\\Local\\Temp\\HYD233C.tmp.1490123461_permissionsCopy\\uTorrent.exe"
+		},
+		{
+			"count" : 2,
+			"path" : "C:\\Program Files\\WindowsApps\\Microsoft.MicrosoftOfficeHub_17.8010.5926.0_x64__8wekyb3d8bbwe\\Office16\\OfficeHubTaskHost.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\Users\\TRIOPH~1\\AppData\\Local\\Temp\\D7BA6C35-B59F-4466-B794-97579E35CA6C\\dismhost.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\Users\\TRIOPH~1\\AppData\\Local\\Temp\\jds280917828.tmp\\JavaSetup8u121.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\WINDOWS\\SysWOW64\\Macromed\\Temp\\{04A274A0-F5A8-4108-9243-41439B76E161}\\InstallFlashPlayer.exe"
+		},
+		{
+			"count" : 3,
+			"path" : "C:\\Users\\Triophore-2\\AppData\\LocalLow\\Oracle\\Java\\jre1.8.0_121\\LZMA_EXE"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\WINDOWS\\SysWOW64\\Macromed\\Temp\\{597CBE93-74F8-418D-83EA-F9F7E3DD303F}\\InstallFlashPlayer.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\Program Files (x86)\\Java\\jre1.8.0_121\\installer.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\Users\\Triophore-2\\Videos\\arduino-plotter-listener-windows64\\listener.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\Program Files (x86)\\TeamViewer\\tv_x64.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\ProgramData\\Oracle\\Java\\installcache\\280991640.tmp\\bspatch.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\Program Files (x86)\\Maxthon\\bin\\MxUp.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\Program Files (x86)\\Java\\jre1.8.0_121\\bin\\unpack200.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\Windows\\SysWOW64\\NETSTAT.EXE"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\Program Files\\Adobe\\Adobe Media Encoder CS6\\Adobe Media Encoder.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\adb\\fastboot.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\Program Files (x86)\\Java\\jre1.8.0_121\\bin\\javaw.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\Program Files (x86)\\Microsoft Visual Studio 14.0\\VC\\bin\\link.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\Program Files\\Wireshark\\dumpcap.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\Program Files (x86)\\Mozilla Firefox\\crashreporter.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\Users\\Triophore-2\\Documents\\Visual Studio 2015\\Projects\\SerailPot\\SerailPot\\bin\\Debug\\SerailPot.vshost.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\Program Files (x86)\\Minimal ADB and Fastboot\\MAF32.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\Program Files (x86)\\Java\\jre1.8.0_121\\bin\\jp2launcher.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\WINDOWS\\SysWOW64\\icacls.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\WINDOWS\\Installer\\MSIA2A1.tmp"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\Program Files (x86)\\Common Files\\Java\\Java Update\\jaureg.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\Users\\Triophore-2\\Videos\\NLP.NET\\Stanford.NLP.NET-master\\samples\\Stanford.NLP.Parser.CSharp\\bin\\Debug\\Stanford.NLP.Parser.CSharp.vshost.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\WINDOWS\\Installer\\MSI23A.tmp"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\Program Files\\Microsoft Silverlight\\5.1.50906.0\\coregen.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "F:\\code\\NetworkViewSampleCode\\NetworkViewSampleCode\\AdvancedSample\\bin\\Debug\\AdvancedSample.vshost.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\WINDOWS\\SysWoW64\\regsvr32.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\Program Files (x86)\\Google\\Chrome\\Application\\57.0.2987.133\\Installer\\setup.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\Program Files (x86)\\OpenSource\\Cronos\\CronosII.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\Users\\TRIOPH~1\\AppData\\Local\\Temp\\6BA79606-5263-4BC9-A01D-C6440894DE8E\\dismhost.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\Program Files (x86)\\LenovoUsbDriver\\DPInst64.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\Users\\TRIOPH~1\\AppData\\Local\\Temp\\E5D98423-9C69-4112-98D3-042568C47DC2\\dismhost.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\Program Files\\GIMP 2\\Python\\pythonw.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\Program Files (x86)\\Google\\Chrome\\Application\\60.0.3112.101\\Installer\\setup.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\Program Files\\Java\\jre1.8.0_91\\bin\\javaws.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\Program Files\\Java\\jre1.8.0_91\\bin\\jp2launcher.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\Program Files (x86)\\Accord.NET\\Samples\\Genetic\\Genetic Programming\\bin\\x86\\Release\\Genetic Programming Samples.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "F:\\arduino 1.8.1\\arduino-1.8.1\\drivers\\dpinst-amd64.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\Program Files\\Adobe\\Adobe Media Encoder CS6\\32\\Adobe QT32 Server.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "F:\\arduino 1.8.1\\TeensyduinoInstall.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\WINDOWS\\system32\\DsmUserTask.Exe"
+		},
+		{
+			"count" : 1,
+			"path" : "C:\\Users\\TRIOPH~1\\AppData\\Local\\Temp\\Rar$EXa0.697\\SimpleHIDTestApplication.exe"
+		},
+		{
+			"count" : 10,
+			"path" : "F:\\arduino 1.8.1\\arduino-1.8.1\\arduino.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\WINDOWS\\system32\\tzsync.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\Program Files (x86)\\Microsoft Visual Studio 14.0\\VC\\bin\\mspdbsrv.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "F:\\arduino 1.8.1\\arduino-1.8.1\\java\\bin\\javaw.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\Users\\Triophore-2\\Documents\\Visual Studio 2015\\Projects\\Mizan\\Mizan\\bin\\x64\\Release\\Mizan.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\Program Files (x86)\\Soxey6\\Team Viewer - Precracked - Soxey6\\TeamViewer\\Version7\\tv_w32.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\Users\\TRIOPH~1\\AppData\\Local\\Temp\\is-D1ILU.tmp\\tunesgo_full2712.tmp"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\Program Files\\Epic Games\\UE_4.15\\Engine\\Binaries\\DotNET\\SwarmAgent.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\Program Files\\Adobe\\Adobe Media Encoder CS6\\PhotoshopServer.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "F:\\arduino 1.8.1\\arduino-1.8.1\\arduino-builder.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\Users\\Triophore-2\\Downloads\\Programs\\xampp-win32-7.0.20-0-VC14-installer.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\Program Files (x86)\\MySQL\\MySQL Notifier 1.1\\MySQLNotifier.exe"
+		},
+		{
+			"count" : 1,
+			"path" : "C:\\Users\\Triophore-2\\AppData\\Local\\Android\\sdk1\\build-tools\\25.0.2\\aapt.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\Program Files\\WindowsApps\\Microsoft.SkypeApp_11.11.110.0_x64__kzf8qxf38zg5c\\SkypeHost.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\WINDOWS\\system32\\cofire.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\Program Files (x86)\\Maxthon\\bin\\Maxthon.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\WINDOWS\\System32\\msiexec.exe"
+		},
+		{
+			"count" : 10,
+			"path" : "f:\\arduino 1.8.1\\arduino-1.8.1\\hardware\\tools\\arm\\lib\\gcc\\arm-none-eabi\\4.8.4\\cc1plus.exe"
+		},
+		{
+			"count" : 10,
+			"path" : "F:\\arduino 1.8.1\\arduino-1.8.1\\tools-builder\\ctags\\5.8-arduino11\\ctags.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "F:\\G\\Autodesk EAGLE Premium 8.0.1 + Crack\\Set-up.exe"
+		},
+		{
+			"count" : 10,
+			"path" : "f:\\arduino 1.8.1\\arduino-1.8.1\\hardware\\tools\\arm\\lib\\gcc\\arm-none-eabi\\4.8.4\\cc1.exe"
+		},
+		{
+			"count" : 10,
+			"path" : "F:\\arduino 1.8.1\\arduino-1.8.1\\hardware\\tools\\arm\\bin\\arm-none-eabi-gcc.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\WINDOWS\\system32\\mspaint.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\Program Files (x86)\\Microsoft SDKs\\Windows\\v7.0A\\bin\\AL.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\Users\\TRIOPH~1\\AppData\\Local\\Temp\\SETUP_28771\\Engine.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\Users\\TRIOPH~1\\AppData\\Local\\Temp\\is-HCNRV.tmp\\android-recovery.tmp"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\WINDOWS\\system32\\mmc.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\Program Files\\WindowsApps\\Microsoft.ZuneVideo_10.17042.14211.0_x64__8wekyb3d8bbwe\\Video.UI.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "F:\\arduino 1.8.1\\arduino-1.8.1\\hardware\\tools\\arm\\bin\\arm-none-eabi-gcc-ar.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\Program Files\\TrueKey\\InstallerEvents.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\Users\\Triophore-2\\Videos\\NLP.NET\\Stanford.NLP.NET-master\\.paket\\paket.exe"
+		},
+		{
+			"count" : 10,
+			"path" : "f:\\arduino 1.8.1\\arduino-1.8.1\\hardware\\tools\\arm\\arm-none-eabi\\bin\\ar.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\Program Files\\WindowsApps\\microsoft.windowscommunicationsapps_17.7922.42017.0_x64__8wekyb3d8bbwe\\HxTsr.exe"
+		},
+		{
+			"count" : 10,
+			"path" : "F:\\arduino 1.8.1\\arduino-1.8.1\\hardware\\tools\\avr\\bin\\avr-size.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\Users\\TRIOPH~1\\AppData\\Local\\Temp\\930BB6C4-3925-4076-AA25-B9D04C630689\\dismhost.exe"
+		},
+		{
+			"count" : 10,
+			"path" : "f:\\arduino 1.8.1\\arduino-1.8.1\\hardware\\tools\\arm\\lib\\gcc\\arm-none-eabi\\4.8.4\\collect2.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\Users\\TRIOPH~1\\AppData\\Local\\Temp\\is-J57GH.tmp\\ISHelperSetup.tmp"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\WINDOWS\\TEMP\\nsy5732.tmp\\TvUpdateInfo.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\Users\\TRIOPH~1\\AppData\\Local\\Temp\\C751FCBF-D5D2-4D32-905E-04459D1525DE\\dismhost.exe"
+		},
+		{
+			"count" : 10,
+			"path" : "F:\\arduino 1.8.1\\arduino-1.8.1\\hardware\\tools\\arm\\bin\\arm-none-eabi-objcopy.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\Program Files\\Microsoft Office\\Office15\\EXCEL.EXE"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\Users\\TRIOPH~1\\AppData\\Local\\Temp\\is-8A3DF.tmp\\DrFoneToolKitAndroid.tmp"
+		},
+		{
+			"count" : 10,
+			"path" : "C:\\Program Files\\WindowsApps\\microsoft.windowscommunicationsapps_17.8008.42007.0_x64__8wekyb3d8bbwe\\HxTsr.exe"
+		},
+		{
+			"count" : 10,
+			"path" : "F:\\arduino 1.8.1\\arduino-1.8.1\\hardware\\tools\\arm\\bin\\arm-none-eabi-size.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\WINDOWS\\System32\\dwm.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\Program Files (x86)\\MSBuild\\14.0\\bin\\MSBuildTaskHost.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "F:\\arduino 1.8.1\\arduino-1.8.1\\hardware\\tools\\teensy.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\Program Files\\WindowsApps\\microsoft.windowscommunicationsapps_17.8400.40955.0_x64__8wekyb3d8bbwe\\HxTsr.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\WINDOWS\\SoftwareDistribution\\Download\\Install\\VS12-KB2932965.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\WINDOWS\\SYSTEM32\\reg.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "F:\\arduino 1.8.1\\arduino-1.8.1\\hardware\\tools\\teensy_reboot.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\Program Files\\GIMP 2\\lib\\gimp\\2.0\\plug-ins\\file-xbm.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\Users\\TRIOPH~1\\AppData\\Local\\Temp\\367C1009-461E-4856-A5F3-4C274C93D1C9\\dismhost.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\Users\\Triophore-2\\Documents\\Visual Studio 2015\\Projects\\ANN\\Teacher\\bin\\Debug\\Teacher.vshost.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\WINDOWS\\system32\\SndVol.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\Users\\Triophore-2\\Videos\\SP_Flash_Tool_exe_Windows_v5.1452.00.000\\assistant.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\AMD\\WU-CCC2\\ccc2_install\\VC13RTx86\\vcredist_x86.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\Program Files\\DipTrace\\Launcher.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\WINDOWS\\System32\\wevtutil.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\PROGRAM FILES (X86)\\MICROSOFT VISUAL STUDIO 14.0\\COMMON7\\IDE\\COMMONEXTENSIONS\\MICROSOFT\\TESTWINDOW\\te.processhost.managed.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\WINDOWS\\SysWOW64\\schtasks.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\WINDOWS\\SysWOW64\\taskkill.exe"
+		},
+		{
+			"count" : 1,
+			"path" : "C:\\Program Files\\AVAST Software\\Avast\\Setup\\e68d73d7-d584-4cc9-894b-eeb027a3ec15.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\Program Files (x86)\\Accord.NET\\Samples\\MachineLearning\\Clustering (GMM)\\bin\\x86\\Debug\\Clustering (GMMs).vshost.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\Users\\TRIOPH~1\\AppData\\Local\\Temp\\is-S0HR3.tmp\\windows-movie-maker-2016.tmp"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\Program Files (x86)\\Minimal ADB and Fastboot\\fastboot.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\Program Files (x86)\\Windows Movie Maker\\InstallPack\\D3DX11_43\\DXSETUP.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\Users\\Triophore-2\\AppData\\Local\\Google\\Chrome\\User Data\\SwReporter\\17.96.0\\software_reporter_tool.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\Program Files (x86)\\Windows Live\\Photo Gallery\\MovieMaker.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\WINDOWS\\system32\\ByteCodeGenerator.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\Program Files (x86)\\Nmap\\zenmap.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\Users\\TRIOPH~1\\AppData\\Local\\Temp\\8F43C7B4-C5E4-4C5A-872D-72F474C91C14\\dismhost.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\WINDOWS\\SysWoW64\\werfault.exe"
+		},
+		{
+			"count" : 3,
+			"path" : "C:\\Users\\TRIOPH~1\\AppData\\Local\\Temp\\DX3BD8.tmp\\infinst.exe"
+		},
+		{
+			"count" : 10,
+			"path" : "F:\\arduino 1.8.1\\arduino-1.8.1\\hardware\\tools\\avr\\bin\\avr-gcc.exe"
+		},
+		{
+			"count" : 1,
+			"path" : "C:\\Program Files (x86)\\Google\\Update\\Install\\{9AEC1D40-72E4-49E5-83B0-5AB91FB55CB3}\\GoogleUpdateSetup.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\WINDOWS\\system32\\regsvr32.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\Program Files (x86)\\Accord.NET\\Framework\\Samples\\Statistics\\Analysis (LDA)\\bin\\x86\\Release\\Analysis (LDA).exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\WINDOWS\\winsxs\\amd64_microsoft-windows-servicingstack_31bf3856ad364e35_10.0.14393.1051_none_7f2bf7ea21d201b2\\TiWorker.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\Users\\TRIOPH~1\\AppData\\Local\\Temp\\_uninstall\\_uninstall26280"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\Users\\TRIOPH~1\\AppData\\Local\\Temp\\is-262E6.tmp\\WAFSetup.tmp"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\Users\\Triophore-2\\AppData\\Local\\Google\\Chrome\\User Data\\SwReporter\\16.92.2\\software_reporter_tool.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\WINDOWS\\system32\\SystemSettingsAdminFlows.exe"
+		},
+		{
+			"count" : 1,
+			"path" : "C:\\Program Files\\AVAST Software\\SZBrowser\\Temp\\CProgram FilesAVAST SoftwareSZBrowser\\16968_25417\\SafeZone_3.55.2393.561_Autoupdate.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\WINDOWS\\system32\\fontdrvhost.exe"
+		},
+		{
+			"count" : 6,
+			"path" : "C:\\Program Files\\AVAST Software\\SZBrowser\\Temp\\CProgram FilesAVAST SoftwareSZBrowser\\ready\\installer.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\WINDOWS\\TEMP\\SafeZone Installer\\installer.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\Users\\TRIOPH~1\\AppData\\Local\\Temp\\65DDD967-8178-4866-9400-D91EB6335DEB\\dismhost.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "F:\\G\\VS2015Tools\\tas_proj\\TAS\\bin\\x64\\Release\\CefSharp.BrowserSubprocess.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\Users\\TRIOPH~1\\AppData\\Local\\Temp\\5D71D28F-1370-4234-80B7-682C2D2FF3C6\\dismhost.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\Program Files\\WindowsApps\\Microsoft.SkypeApp_11.11.109.0_x64__kzf8qxf38zg5c\\SkypeHost.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\Program Files (x86)\\Microsoft Visual Studio 14.0\\Common7\\IDE\\PrivateAssemblies\\ScriptedSandbox64.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\Users\\TRIOPH~1\\AppData\\Local\\Temp\\881B5E5B-2FE0-4BD1-B019-1389074C5361\\dismhost.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\Program Files (x86)\\Windows Live\\Photo Gallery\\WLXPhotoGallery.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\Program Files (x86)\\Windows Live\\Installer\\wlstartup.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\Program Files (x86)\\Epic Games\\DirectXRedist\\DXSETUP.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "F:\\SCP\\metroframework-modern-ui\\MetroFramework.Demo\\bin\\x64\\Release\\MetroFramework.Demo.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\Users\\TRIOPH~1\\AppData\\Local\\Temp\\2DD81EA9-C774-44E0-948A-13701D4EDBC7\\dismhost.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "G:\\vs_community.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\Users\\TRIOPH~1\\AppData\\Local\\Temp\\is-9LQRB.tmp\\LibUsbDotNet_Setup.2.2.8.tmp"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\Users\\Triophore-2\\Downloads\\Programs\\tunesgo_setup_full2712.exe"
+		},
+		{
+			"count" : 10,
+			"path" : "f:\\arduino 1.8.1\\arduino-1.8.1\\hardware\\tools\\avr\\libexec\\gcc\\avr\\4.9.2\\cc1plus.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\Users\\Triophore-2\\Downloads\\Programs\\vs_ultimate.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\Program Files\\GIMP 2\\lib\\gimp\\2.0\\plug-ins\\metadata.exe"
+		},
+		{
+			"count" : 10,
+			"path" : "F:\\arduino 1.8.1\\arduino-1.8.1\\hardware\\tools\\avr\\bin\\avr-g++.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "F:\\G\\VS2015Tools\\TAS\\TAS\\TAS\\bin\\x64\\Release\\TAS.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\AMD\\Packages\\Apps\\Radeon-Crimson-ReLive-17.4.3-ccc-cs64-64bit-170417WHQL.exe"
+		},
+		{
+			"count" : 10,
+			"path" : "F:\\arduino 1.8.1\\arduino-1.8.1\\hardware\\tools\\avr\\bin\\avr-gcc-ar.exe"
+		},
+		{
+			"count" : 10,
+			"path" : "f:\\arduino 1.8.1\\arduino-1.8.1\\hardware\\tools\\avr\\libexec\\gcc\\avr\\4.9.2\\lto-wrapper.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\Program Files\\AVAST Software\\Avast\\setup\\New_110208f0\\instup.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\Users\\TRIOPH~1\\AppData\\Local\\Temp\\08FDBE77-1C38-485D-AB29-3C04372D3335\\dismhost.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\Program Files (x86)\\Common Files\\Microsoft Shared\\MSEnv\\VSLauncher.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "F:\\arduino 1.8.1\\arduino-1.8.1\\hardware\\tools\\avr\\bin\\avr-objcopy.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\Program Files\\WindowsApps\\microsoft.windowscommunicationsapps_17.8119.42377.0_x64__8wekyb3d8bbwe\\HxTsr.exe"
+		},
+		{
+			"count" : 10,
+			"path" : "F:\\arduino 1.8.1\\arduino-1.8.1\\hardware\\tools\\avr\\bin\\avrdude.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\Users\\TRIOPH~1\\AppData\\Local\\Temp\\0A8BBC2D-0BB6-471E-B2E6-FB507194786B\\dismhost.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "F:\\arduino 1.8.1\\arduino-1.8.1\\Image2GLCD.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\Program Files\\GIMP 2\\bin\\gimp-2.8.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\Windows\\System32\\WScript.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\Program Files\\GIMP 2\\lib\\gimp\\2.0\\plug-ins\\script-fu.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\Users\\Triophore-2\\Downloads\\Programs\\SetupMegunoLinkPro.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\Program Files\\GIMP 2\\lib\\gimp\\2.0\\plug-ins\\file-jpeg.exe"
+		},
+		{
+			"count" : 2,
+			"path" : "C:\\ProgramData\\Package Cache\\{3ee5e5bb-b7cc-4556-8861-a00a82977d6c}\\VC_redist.x64.exe"
+		},
+		{
+			"count" : 10,
+			"path" : "C:\\Program Files\\WindowsApps\\microsoft.windowscommunicationsapps_17.7912.40507.0_x64__8wekyb3d8bbwe\\HxTsr.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\WINDOWS\\SysWoW64\\ByteCodeGenerator.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\WINDOWS\\system32\\mfpmp.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\Program Files (x86)\\Epic Games\\Launcher\\Portal\\Binaries\\Win32\\EpicGamesLauncher.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\WINDOWS\\system32\\LogonUI.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\Users\\TRIOPH~1\\AppData\\Local\\Temp\\3391D00C-A077-4075-8A19-17CD66667FB6\\dismhost.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\WINDOWS\\system32\\browser_broker.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "f:\\arduino\\arduino-1.6.8\\hardware\\tools\\avr\\avr\\bin\\ld.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "c:\\users\\triophore-2\\documents\\visual studio 2013\\Projects\\TreeView\\TreeView\\bin\\Debug\\TreeView.vshost.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\Program Files (x86)\\Wondershare\\dr.fone toolkit for Android\\unins000.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\PROGRA~2\\RAPTRI~1\\Raptr\\raptr_im.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\AMD\\Packages\\Apps\\Radeon-Crimson-ReLive-17.4.3-ccc-da64-64bit-170417WHQL.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\Program Files (x86)\\Microsoft Visual Studio 14.0\\Common7\\IDE\\CommonExtensions\\Microsoft\\IntelliTrace\\14.0.0\\IntelliTrace.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\Program Files (x86)\\Accord.NET\\Framework\\Samples\\MachineLearning\\Animat\\bin\\x86\\Release\\Animat.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\AMD\\Packages\\Apps\\Radeon-Crimson-ReLive-17.4.3-ccc-it64-64bit-170417WHQL.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\Users\\Triophore-2\\Downloads\\Programs\\diptrace_en64.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\Windows\\System32\\mspaint.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "c:\\PROGRA~1\\COMMON~1\\mcafee\\updmgr\\403031~1.2\\MCUPDA~1.EXE"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\Program Files\\Intel Security\\True Key\\Application\\truekey.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\WINDOWS\\system32\\wbem\\WMIADAP.EXE"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\Windows\\System32\\PickerHost.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\Users\\TRIOPH~1\\AppData\\Local\\Temp\\is-G3R31.tmp\\Lumion_5_LUM5PRO_HS Architects.tmp"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\Users\\TRIOPH~1\\AppData\\Local\\Temp\\is-PIQEJ.tmp\\Lumion_5_LUM5PRO_HS Architects.tmp"
+		},
+		{
+			"count" : 1,
+			"path" : "f:\\bca73a12548ccb9513720d1481\\install.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\Windows\\SystemApps\\Microsoft.MicrosoftEdge_8wekyb3d8bbwe\\MicrosoftEdge.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\WINDOWS\\SysWOW64\\tasklist.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\Users\\Triophore-2\\Videos\\processing-3.3.4-windows64\\processing-3.3.4\\processing.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\Program Files (x86)\\Steam\\bin\\cef\\cef.win7\\steamwebhelper.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\Users\\Triophore-2\\Documents\\Visual Studio 2015\\Projects\\ANN\\Trainer\\bin\\Debug\\Trainer.vshost.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\Program Files (x86)\\Common Files\\Steam\\SteamService.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\AMD\\Packages\\Apps\\Radeon-Crimson-ReLive-17.4.3-vc1564-64bit-170417WHQL\\vcredist_x64\\vcredist_x64.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\Windows\\System32\\InstallAgent.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\Python34\\pythonw.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\Program Files\\AVAST Software\\Avast\\setup\\aswOfferTool.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\Program Files\\WindowsApps\\Microsoft.ZuneMusic_10.17012.10301.0_x64__8wekyb3d8bbwe\\Music.UI.exe"
+		},
+		{
+			"count" : 10,
+			"path" : "C:\\Program Files\\WindowsApps\\Microsoft.ZuneVideo_10.17012.10301.0_x64__8wekyb3d8bbwe\\Video.UI.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\Users\\TRIOPH~1\\AppData\\Local\\Temp\\is-IH88F.tmp\\Composer-Setup.tmp"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\Program Files (x86)\\Common Files\\Adobe\\ARM\\1.0\\AdobeARMHelper.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\Program Files (x86)\\Notepad++\\updater\\gup.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\Windows\\SysWOW64\\find.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\Program Files (x86)\\Steam\\Steam.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\AMD\\Packages\\Apps\\Radeon-Crimson-ReLive-17.4.3-ccc-no64-64bit-170417WHQL.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\WINDOWS\\SoftwareDistribution\\Download\\Install\\Windows-KB890830-x64-V5.45-delta.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\Users\\TRIOPH~1\\AppData\\Local\\Temp\\is-VB2J9.tmp\\WAFSetup.tmp"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\Program Files\\WindowsApps\\microsoft.windowscommunicationsapps_17.7920.40507.0_x64__8wekyb3d8bbwe\\HxTsr.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\Users\\TRIOPH~1\\AppData\\Local\\Temp\\CDB5CC2A-BEB1-45F8-847B-A5D4C36EA8F1\\dismhost.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\Windows\\SysWOW64\\notepad.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\Users\\TRIOPH~1\\AppData\\Local\\Temp\\F6C97050-4CD1-4FEC-82FA-21AD15A24C4A\\dismhost.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\Program Files (x86)\\SyncDroid\\SyncDroid.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\Program Files (x86)\\Soxey6\\Team Viewer - Precracked - Soxey6\\TeamViewer\\Version7\\tv_x64.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\Program Files\\AMD\\CIM\\Bin64\\InstallManagerApp.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\WINDOWS\\SysWOW64\\Macromed\\Temp\\{63D46398-3281-4DB4-A667-E198768B3430}\\InstallFlashPlayer.exe"
+		},
+		{
+			"count" : 4,
+			"path" : "C:\\Users\\TRIOPH~1\\AppData\\Local\\Temp\\CIMManifest.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\Program Files\\AVAST Software\\SZBrowser\\4.58.2552.909\\SZBrowser_autoupdate.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\Program Files (x86)\\Google\\Update\\Install\\{F005DBE8-5478-4863-A27A-0F04949F515F}\\58.0.3029.81_57.0.2987.133_chrome_updater.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\Program Files (x86)\\Baraha Software\\Baraha 10\\FontConvert.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "c:\\windows\\system32\\NetCfgNotifyObjectHost.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\AMD\\Packages\\Drivers\\Radeon-Crimson-ReLive-17.4.3-c0313248-win10-64bit-170417_drvWHQL.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\Users\\TRIOPH~1\\AppData\\Local\\Temp\\C3A68C80-5C5E-462F-AF14-85711F5FECB2\\dismhost.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\WINDOWS\\system32\\csrss.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\AMD\\Packages\\Apps\\Radeon-Crimson-ReLive-17.4.3-ccc-fr64-64bit-170417WHQL.exe"
+		},
+		{
+			"count" : 1,
+			"path" : "\\SystemRoot\\System32\\smss.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\Windows\\System32\\RuntimeBroker.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\Users\\Triophore-2\\AppData\\Local\\Google\\Chrome\\User Data\\SwReporter\\19.105.0\\software_reporter_tool.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\AMD\\Packages\\Apps\\Radeon-Crimson-ReLive-17.4.3-cnbranding64-64bit-170417WHQL.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\WINDOWS\\System32\\UNP\\UNPCampaignManager.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\WINDOWS\\System32\\LogonUI.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\WINDOWS\\SysWow64\\atieah32.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\WINDOWS\\system32\\winsat.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\Users\\TRIOPH~1\\AppData\\Local\\Temp\\27E32729-2CCC-4285-962B-C0BBAB2F4E0F\\dismhost.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\WINDOWS\\SysWOW64\\runonce.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\Program Files\\WindowsApps\\microsoft.windowscommunicationsapps_17.8241.41225.0_x64__8wekyb3d8bbwe\\HxTsr.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\Program Files (x86)\\Common Files\\Adobe\\SwitchBoard\\SwitchBoard.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\Program Files (x86)\\Microsoft Visual Studio 12.0\\Common7\\IDE\\VSIXInstaller.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\Program Files (x86)\\Microsoft SDKs\\Windows\\v10.0A\\bin\\NETFX 4.6.1 Tools\\sn.exe"
+		},
+		{
+			"count" : 1,
+			"path" : "C:\\xampp\\FileZillaFTP\\FileZillaServer.exe"
+		},
+		{
+			"count" : 10,
+			"path" : "C:\\Program Files\\Git\\mingw64\\bin\\git.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\Program Files (x86)\\Autodesk\\Autodesk Desktop App\\AutodeskDesktopApp.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\Program Files\\DipTrace\\PCB.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\Program Files (x86)\\Wondershare\\WAF\\2.4.3.225\\WsAppClient.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\WINDOWS\\Microsoft.NET\\Framework64\\v4.0.30319\\Ngen.exe"
+		},
+		{
+			"count" : 2,
+			"path" : "C:\\ProgramData\\Boxtools\\Boxofttoolbox.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\Users\\Triophore-2\\AppData\\Local\\Google\\Chrome\\User Data\\SwReporter\\19.108.1\\software_reporter_tool.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\Program Files\\AVAST Software\\Avast\\AvLaunch.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\Program Files (x86)\\Mozilla Maintenance Service\\update\\updater.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\Users\\TRIOPH~1\\AppData\\Local\\Temp\\A07A3730-C904-46A7-BE09-3AF9FC7721CB\\dismhost.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\Program Files (x86)\\Common Files\\Microsoft Shared\\VS7Debug\\VsImmersiveActivateHelper140.exe"
+		},
+		{
+			"count" : 1,
+			"path" : "C:\\Program Files (x86)\\Microsoft SDKs\\TypeScript\\1.7\\tsc.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\Program Files (x86)\\AVG\\Framework\\Common\\avguirna.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\Program Files (x86)\\AVG\\Framework\\Common\\avguix.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\Program Files (x86)\\Accord.NET\\Framework\\Samples\\Neuro\\Deep Learning\\bin\\x86\\Release\\DeepLearning.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\Program Files\\Common Files\\McAfee\\UPDMGR\\4.0.3031.2\\mccertupd.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "F:\\monero\\NiceHashMiner_v1.7.5.7\\NiceHashMiner_v1.7.5.7\\NiceHashMiner.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "c:\\users\\triophore-2\\documents\\visual studio 2015\\Projects\\TriophoreOSBuilder\\TriophoreOSBuilder\\bin\\Debug\\TriophoreOSBuilder.vshost.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\AMD\\Packages\\Apps\\Radeon-Crimson-ReLive-17.2.1-MinimalSetup-170228\\Setup.exe"
+		},
+		{
+			"count" : 2,
+			"path" : "C:\\Program Files (x86)\\Raptr Inc\\Raptr\\raptrstub.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\Users\\TRIOPH~1\\AppData\\Local\\Temp\\91BB2E21-0FEE-4975-B3AC-B67D4835B6C1\\dismhost.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\Users\\TRIOPH~1\\AppData\\Local\\Temp\\44445496-293C-4F50-A4FD-57177A339FB7\\dismhost.exe"
+		},
+		{
+			"count" : 10,
+			"path" : "C:\\Program Files (x86)\\MSBuild\\Xamarin\\iOS\\mtouch.exe"
+		},
+		{
+			"count" : 3,
+			"path" : "C:\\Program Files (x86)\\TRUST KEY\\TRUST KEY tool\\TRUSTPKCSUtil.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\Program Files\\AVAST Software\\SZBrowser\\Temp\\CProgram FilesAVAST SoftwareSZBrowser\\11588_15146\\SafeZone_3.55.2393.590_Autoupdate.exe"
+		},
+		{
+			"count" : 3,
+			"path" : "C:\\Program Files (x86)\\TRUST KEY\\TRUST KEY tool\\TRUSTPKCSUtil64.exe"
+		},
+		{
+			"count" : 3,
+			"path" : "F:\\G\\VS2015Tools\\tas_proj\\MahApps.Metro-develop\\.paket\\paket.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\Users\\TRIOPH~1\\AppData\\Local\\Temp\\FA0458B3-DC2E-4097-867C-7871127ADF2F\\dismhost.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\Program Files\\Nitro\\Pro 9\\NitroPDF.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "f:\\48575d96a641122c10\\Setup.exe"
+		},
+		{
+			"count" : 7,
+			"path" : "F:\\code\\Dynamo-WPF-master\\.nuget\\NuGet.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\ProgramData\\Boxtools\\Toolbox.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\Program Files\\MinerGate\\minergate.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\Users\\Triophore-2\\Videos\\NLP.NET\\Stanford.NLP.NET-master\\tests\\Stanford.NLP.NER.FSharp.Tests\\bin\\Release\\Stanford.NLP.NER.FSharp.Tests.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\Program Files (x86)\\Common Files\\Adobe\\ARM\\1.0\\Temp\\1950931740\\AdobeARMHelper.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\PROGRA~2\\RAPTRI~1\\Raptr\\raptr.exe"
+		},
+		{
+			"count" : 2,
+			"path" : "F:\\torrent\\diptrace\\DipTrace 3.0\\diptrace_en64.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\AMD\\Packages\\Apps\\Radeon-Crimson-ReLive-17.4.3-ccc-es64-64bit-170417WHQL.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\Program Files (x86)\\Internet Download Manager\\IEMonitor.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\Users\\TRIOPH~1\\AppData\\Local\\Temp\\A7C8C028-CDF5-46C3-8170-0E3FFDCC5F6D\\dismhost.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\Program Files\\Bitcoin\\bitcoin-qt.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\Program Files (x86)\\AOMEI Backupper\\ABNotify.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\WINDOWS\\SysWOW64\\regsvr32.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\Windows\\Microsoft.NET\\Framework\\v4.0.30319\\InstallUtil.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\Users\\Triophore-2\\AppData\\Roaming\\Foxit Software\\Addon\\Foxit Reader\\FoxitReaderUpdater.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\Program Files (x86)\\Accord.NET\\Samples\\MachineLearning\\Fitting (RANSAC)\\bin\\x86\\Release\\Fitting (RANSAC).exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\Program Files (x86)\\Microsoft Visual Studio 12.0\\Common7\\IDE\\CommonExtensions\\Microsoft\\IntelliTrace\\12.0.0\\IntelliTrace.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\Program Files (x86)\\Electronic Arts\\Need for Speed(TM) Hot Pursuit\\activation.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\PROGRA~1\\MIF5BA~1\\Office15\\PDFREF~1.EXE"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\WINDOWS\\splwow64.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\Program Files (x86)\\Foxit Software\\Foxit Reader\\plugins\\Creator\\FXC_ProxyProcess.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\Users\\TRIOPH~1\\AppData\\Local\\Temp\\{98764D0B-36FD-4BCC-BD00-306625754506}\\{5D0C66B9-7311-4E36-819D-B28FC342B3D2}.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\Users\\TRIOPH~1\\AppData\\Local\\Temp\\0994146C-44C8-4464-8706-D1E40EE432BF\\dismhost.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\WINDOWS\\TEMP\\nsu802.tmp\\TvUpdateInfo.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\Program Files (x86)\\Adobe\\PhoneGap\\PhoneGap Desktop\\unins000.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\Windows\\SysWOW64\\xcopy.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\Program Files (x86)\\TeamViewer\\TeamViewer.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\WINDOWS\\SysWOW64\\chcp.com"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\Program Files (x86)\\TeamViewer\\tv_w32.exe"
+		},
+		{
+			"count" : 1,
+			"path" : "f:\\9e00b00d3033f25169118277b74942\\install.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\WINDOWS\\system32\\wbem\\wmic.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\Users\\TRIOPH~1\\AppData\\Local\\Temp\\_uninstall\\_uninstall12276"
+		},
+		{
+			"count" : 5,
+			"path" : "C:\\Program Files (x86)\\Google\\Update\\1.3.33.3\\GoogleCrashHandler.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\Users\\Triophore-2\\AppData\\Local\\Google\\Chrome\\User Data\\SwReporter\\17.94.0\\software_reporter_tool.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\Users\\Triophore-2\\AppData\\Local\\UnrealEngine\\4.15\\Saved\\Swarm\\SwarmCache\\Jobs\\Job-1D1C4CF8-4298D373-47F3B496-3A02324C\\UnrealLightmass.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\Users\\TRIOPH~1\\AppData\\Local\\Temp\\B20F4AB8-4B4E-4177-A0F7-26DE07F36921\\dismhost.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\ProgramData\\Package Cache\\A2D21D14-B309-3F17-AC2B-AAD88D78A566\\packages\\Preparation.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\Program Files\\GIMP 2\\lib\\gimp\\2.0\\plug-ins\\file-png.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\Program Files\\GIMP 2\\lib\\gimp\\2.0\\plug-ins\\lcms.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\Program Files\\TrueKey\\InstallerWrapperService.exe"
+		},
+		{
+			"count" : 10,
+			"path" : "C:\\Program Files\\WindowsApps\\microsoft.windowscommunicationsapps_17.8004.42017.0_x64__8wekyb3d8bbwe\\HxTsr.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\Program Files\\WindowsApps\\Microsoft.ZuneMusic_10.17012.10311.0_x64__8wekyb3d8bbwe\\Music.UI.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\Program Files\\AVAST Software\\Avast\\setup\\New_110508ff\\instup.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\Users\\TRIOPH~1\\AppData\\Local\\Temp\\42ACA3E4-7CB5-4B36-AA4D-3AA3834A49AE\\dismhost.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\Users\\TRIOPH~1\\AppData\\Local\\Temp\\46C9820E-D86E-4B69-91DF-0B806C9DACDD\\dismhost.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\Program Files (x86)\\Internet Download Manager\\IDMan.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\PROGRA~1\\TrueKey\\INSTAL~1.EXE"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\AMD\\Packages\\Apps\\Radeon-Crimson-ReLive-17.4.3-vulkanrt-64bit-170417WHQL\\VulkanRT\\VulkanRT.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\WINDOWS\\SysWOW64\\net1.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\PROGRA~1\\Nitro\\PRO9~1\\NitroAssistant.exe"
+		},
+		{
+			"count" : 2,
+			"path" : "C:\\Users\\Triophore-2\\AppData\\Local\\Google\\Chrome\\User Data\\SwReporter\\17.95.0\\software_reporter_tool.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\program files (x86)\\common files\\adobe air\\versions\\1.0\\resources\\adobe air updater.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\Program Files\\AVAST Software\\SZBrowser\\Temp\\CProgram FilesAVAST SoftwareSZBrowser\\17044_12648\\SafeZone_3.55.2393.590_Autoupdate.exe"
+		},
+		{
+			"count" : 10,
+			"path" : "C:\\xampp\\install\\awk.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\Users\\TRIOPH~1\\AppData\\Local\\Temp\\A996B8D8-BAC1-4C07-8319-12312D0385D0\\dismhost.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\Users\\TRIOPH~1\\AppData\\Local\\Temp\\is-CJHOO.tmp\\NetFxLite.tmp"
+		},
+		{
+			"count" : 1,
+			"path" : "C:\\Program Files (x86)\\Traccar\\bin\\wrapper.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\Program Files\\Autodesk\\Maya2016\\bin\\adlmsetup.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\Users\\Triophore-2\\AppData\\Local\\Temp\\WebAnalyzer1.7.77\\7z.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\Users\\TRIOPH~1\\AppData\\Local\\Temp\\DDE4F77D-F663-4C2D-988F-DAAE0C8E4F70\\dismhost.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\Program Files\\AVAST Software\\SZBrowser\\3.55.2393.590\\SZBrowser_autoupdate.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\Users\\Triophore-2\\AppData\\Roaming\\uTorrent\\uTorrent.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\WINDOWS\\Installer\\MSI8DD9.tmp"
+		},
+		{
+			"count" : 1,
+			"path" : "f:\\c4e79a58271d0eb71cf4ed6df3\\install.exe"
+		},
+		{
+			"count" : 1,
+			"path" : "C:\\Program Files (x86)\\AOMEI Backupper\\LoadDrv.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\WINDOWS\\TEMP\\CR_2855E.tmp\\setup.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "F:\\torrent\\diptrace\\DipTrace 3.0\\DipTrace 3.0 (64-bit)\\diptrace_en64.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "F:\\G\\FastColoredTextBox\\Tester\\bin\\Debug\\Tester.vshost.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\Users\\TRIOPH~1\\AppData\\Local\\Temp\\4B6182A6-C00E-4126-92FE-680BCCA4ED2B\\dismhost.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\Program Files (x86)\\Microsoft Visual Studio 12.0\\Common7\\IDE\\XDesProc.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\WINDOWS\\system32\\cacls.exe"
+		},
+		{
+			"count" : 1,
+			"path" : "C:\\Program Files (x86)\\Traccar\\unins000.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\Program Files\\DipTrace\\Schematic.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\Program Files\\WindowsApps\\Microsoft.SkypeApp_11.12.112.0_x64__kzf8qxf38zg5c\\SkypeHost.exe"
+		},
+		{
+			"count" : 1,
+			"path" : "C:\\Program Files (x86)\\Maxthon App Store\\1.1.0.10848\\UnKnowFile.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\Program Files (x86)\\Java\\jre1.8.0_121\\bin\\java.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\Program Files (x86)\\Common Files\\Adobe AIR\\Versions\\1.0\\Resources\\Adobe AIR Updater.exe"
+		},
+		{
+			"count" : 10,
+			"path" : "F:\\arduino 1.8.1\\arduino-1.8.1\\hardware\\tools\\teensy_gateway.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\Users\\Triophore-2\\Downloads\\Programs\\LibUsbDotNet_Setup.2.2.8.exe"
+		},
+		{
+			"count" : 1,
+			"path" : "C:\\Program Files\\LibUsbDotNet\\Test_Bulk.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\Program Files (x86)\\Google\\Update\\Install\\{9D614925-593E-4C87-9A81-6710E97D04F4}\\58.0.3029.96_chrome_installer.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\Program Files (x86)\\WinUtilities\\ToolSafeUninstall.exe"
+		},
+		{
+			"count" : 10,
+			"path" : "C:\\Program Files (x86)\\MSBuild\\Xamarin\\Android\\mandroid.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\WINDOWS\\System32\\dism.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\Program Files (x86)\\Common Files\\Microsoft Shared\\VsHub\\1.0.0.0\\vshub.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\Windows\\SysWOW64\\cmd.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\Program Files\\WindowsApps\\Microsoft.WindowsCalculator_10.1703.601.0_x64__8wekyb3d8bbwe\\Calculator.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\Users\\Triophore-2\\AppData\\Local\\Temp\\WebCompiler1.11.326\\7z.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\Program Files (x86)\\Common Files\\Microsoft Shared\\VsHub\\1.0.0.0\\Microsoft.VsHub.Server.HttpHost.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\Program Files (x86)\\MSBuild\\14.0\\bin\\MSBuild.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\Program Files (x86)\\MSBuild\\14.0\\bin\\VBCSCompiler.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "F:\\G\\VS2015Tools\\tas_proj\\TAS\\bin\\x64\\Release\\TAS.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "F:\\USBHID\\MightyHID-master\\MightyHIDTest\\MightyHIDTest\\bin\\Debug\\MightyHIDTest.vshost.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\WINDOWS\\Microsoft.Net\\assembly\\GAC_32\\Microsoft.Alm.Shared.Remoting.RemoteContainer\\v4.0_14.0.0.0__b03f5f7f11d50a3a\\Microsoft.Alm.Shared.Remoting.RemoteContainer.dll"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\Program Files\\WindowsApps\\Microsoft.SkypeApp_11.13.133.0_x64__kzf8qxf38zg5c\\SkypeHost.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\Program Files (x86)\\McAfee\\Temp\\qxzB55F\\McTKInsUtil.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\Program Files (x86)\\Common Files\\Microsoft Shared\\VsHub\\1.0.0.0\\Microsoft.VsHub.Server.HttpHostx64.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\Windows\\SysWOW64\\reg.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\Users\\Triophore-2\\Downloads\\Programs\\xampp-win32-5.6.30-0-VC11-installer.exe"
+		},
+		{
+			"count" : 1,
+			"path" : "C:\\xampp\\vcredist\\VCREDI~1.EXE"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\Users\\Triophore-2\\Downloads\\Programs\\SpyHunter-Installer.exe"
+		},
+		{
+			"count" : 1,
+			"path" : "C:\\xampp\\php\\php.exe"
+		},
+		{
+			"count" : 1,
+			"path" : "C:\\Users\\Triophore-2\\AppData\\Roaming\\uTorrent\\updates\\3.4.9_43388.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\Program Files (x86)\\Microsoft Visual Studio 14.0\\Common7\\IDE\\VSLaunchBrowser.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\Program Files (x86)\\Accord.NET\\Samples\\Statistics\\Regression (Linear and Logistic)\\bin\\x86\\Release\\Regression.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\Users\\Triophore-2\\Videos\\NLP.NET\\Stanford.NLP.NET-master\\tests\\Stanford.NLP.CoreNLP.FSharp.Tests\\bin\\Release\\Stanford.NLP.CoreNLP.FSharp.Tests.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\WINDOWS\\Installer\\MSI1F0B.tmp"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\Users\\Triophore-2\\AppData\\Roaming\\uTorrent\\updates\\3.4.9_43388\\utorrentie.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\Users\\TRIOPH~1\\AppData\\Local\\Temp\\65F33137-C792-4122-9503-CCBB4CBFA51B\\dismhost.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\WINDOWS\\Installer\\MSI7D47.tmp"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\WINDOWS\\system32\\RunDll32.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\Program Files\\AVAST Software\\Avast\\x64\\RegSvr.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\WINDOWS\\Installer\\MSIAD23.tmp"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\Users\\TRIOPH~1\\AppData\\Local\\Temp\\F41E1C4B-AE55-48B8-8EAD-9F5159F582F5\\dismhost.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\Program Files (x86)\\Microsoft Silverlight\\5.1.50905.0\\coregen.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\WINDOWS\\Installer\\MSIF902.tmp"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\WINDOWS\\Installer\\MSIB294.tmp"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\Program Files\\Microsoft Silverlight\\5.1.50905.0\\coregen.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\WINDOWS\\SoftwareDistribution\\Download\\Install\\Windows-KB890830-x64-V5.46-delta.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\WINDOWS\\Installer\\MSIC3F9.tmp"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\Users\\TRIOPH~1\\AppData\\Local\\Temp\\0EE38AD9-5BD9-44E6-BBF5-4DA568171E1B\\dismhost.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\WINDOWS\\system32\\atiesrxx.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\WINDOWS\\SysWOW64\\sc.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\Program Files\\Ozeki\\Ozeki SDK\\uninstall.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\WINDOWS\\system32\\CompMgmtLauncher.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\Program Files\\AVAST Software\\SZBrowser\\3.55.2393.607\\SZBrowser_autoupdate.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\Program Files\\TrueKey\\McTKInsUtil.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\WINDOWS\\System32\\cmd.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\Python34\\python.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\Program Files (x86)\\Common Files\\Adobe\\ARM\\1.0\\Temp\\408745916\\AdobeARMHelper.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\Users\\TRIOPH~1\\AppData\\Local\\Temp\\is-AO8LU.tmp\\DrFoneToolKitAndroid.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\Program Files (x86)\\Microsoft Visual Studio 12.0\\Common7\\IDE\\vsixinstaller.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "F:\\G\\VS2015Tools\\tas_proj\\TAS\\bin\\x64\\Release\\TAS.vshost.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\Program Files\\TrueKey\\McAfee.TrueKey.Service.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\WINDOWS\\system32\\xcopy.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\Program Files (x86)\\MSBuild\\14.0\\bin\\amd64\\MSBuild.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\Program Files\\cpp-ethereum\\Uninstall.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\WINDOWS\\Installer\\MSI6024.tmp"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\Program Files (x86)\\Microsoft Visual Studio 14.0\\Common7\\IDE\\Remote Debugger\\x64\\msvsmon.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\Program Files\\AMD\\CIM\\Bin64\\SetACL64.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\Program Files (x86)\\Wondershare\\dr.fone toolkit for Android\\WAFSetup.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\Program Files (x86)\\Google\\Update\\1.3.33.5\\GoogleUpdateOnDemand.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\Windows\\System32\\cmd.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\Program Files (x86)\\Mozilla Firefox\\uninstall\\helper.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\Users\\Triophore-2\\AppData\\Local\\Google\\Chrome\\User Data\\SwReporter\\17.98.0\\software_reporter_tool.exe"
+		},
+		{
+			"count" : 2,
+			"path" : "C:\\Program Files (x86)\\Mozilla Maintenance Service\\maintenanceservice_tmp.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\Program Files\\AVAST Software\\Avast\\RegSvr.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\Program Files (x86)\\Common Files\\Adobe\\OOBE\\PDApp\\UWA\\updaterstartuputility.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\Program Files\\TrueKey\\installerevents.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\Program Files\\VIA XHCI UASP Utility\\usb3Monitor.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\Program Files\\Malwarebytes\\Anti-Malware\\mbamtray.exe"
+		},
+		{
+			"count" : 2,
+			"path" : "C:\\Program Files (x86)\\Steam\\steamerrorreporter.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\WINDOWS\\system32\\msconfig.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\Program Files\\AVAST Software\\SZBrowser\\3.55.2393.561_0\\SZBrowser_autoupdate.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "F:\\G\\FastColoredTextBoxDemo\\Tester.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\Program Files (x86)\\Common Files\\Adobe\\ARM\\1.0\\Temp\\1945359731\\AdobeARMHelper.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\Users\\TRIOPH~1\\AppData\\Local\\Temp\\Rar$EXa0.149\\_\\fsutil.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\Program Files (x86)\\Accord.NET\\Framework\\Samples\\Neuro\\Self-Organizing Maps (SOM)\\bin\\x86\\Release\\Self-Organinizing Maps (SOM).exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\Program Files (x86)\\Google\\Update\\Install\\{4D0C6CD5-D582-4F1A-B773-D8631B4F105A}\\59.0.3071.115_58.0.3029.110_chrome_updater.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\Program Files (x86)\\WinUtilities\\WinUtil.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\Program Files (x86)\\WinUtilities\\ToolDiskCleaner.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\Users\\TRIOPH~1\\AppData\\Local\\Temp\\91AEAC68-22B1-4312-9601-5FA8022C94E3\\dismhost.exe"
+		},
+		{
+			"count" : 10,
+			"path" : "C:\\Program Files (x86)\\Microsoft SDKs\\Windows\\v7.0A\\Bin\\ResGen.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\Program Files (x86)\\Autodesk\\Autodesk Desktop App\\AdAppMgrTaskClean.exe"
+		},
+		{
+			"count" : 1,
+			"path" : "C:\\Program Files (x86)\\Boxoft Mp3 to WAV Converter (freeware)\\unins000.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\Users\\TRIOPH~1\\AppData\\Local\\Temp\\_iu14D2N.tmp"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\Users\\TRIOPH~1\\AppData\\Local\\Temp\\~nsu.tmp\\Au_.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\Program Files\\Geth\\uninstall.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\Program Files\\WindowsApps\\Microsoft.MicrosoftOfficeHub_17.8225.5925.0_x64__8wekyb3d8bbwe\\Office16\\OfficeHubTaskHost.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\Program Files (x86)\\Microsoft Visual Studio 10.0\\Microsoft Visual C++ 2010 Express - ENU\\setup.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\Program Files\\MinerGate\\Uninstall.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\Program Files\\MATLAB\\R2016b\\toolbox\\dotnetbuilder\\bin\\win64\\v2.0\\GACInstaller.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\Users\\TRIOPH~1\\AppData\\Local\\Temp\\~nsu.tmp\\Bu_.exe"
+		},
+		{
+			"count" : 1,
+			"path" : "c:\\ddffc352bc4ebd5e2144f2856a05\\install.exe"
+		},
+		{
+			"count" : 1,
+			"path" : "C:\\Users\\TRIOPH~1\\AppData\\Local\\Temp\\~nsu.tmp\\Cu_.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\Program Files (x86)\\iSkysoft\\Phone Transfer\\ISHelperSetup.exe"
+		},
+		{
+			"count" : 1,
+			"path" : "C:\\Program Files (x86)\\MiniTool Partition Wizard Home Edition 8.1.1\\unins000.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\EAGLE 8.0.1\\QtWebEngineProcess.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\WINDOWS\\SysWOW64\\MsiExec.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\Program Files\\WindowsApps\\Microsoft.Windows.Photos_2017.35063.12420.0_x64__8wekyb3d8bbwe\\Microsoft.Photos.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\Program Files (x86)\\AForge.NET\\Framework\\Samples\\Neuro\\Back Propagation\\Approximation\\bin\\Debug\\Approximation.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\Users\\Triophore-2\\Documents\\Visual Studio 2013\\Projects\\ant\\Tester\\bin\\Debug\\Tester.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\WINDOWS\\SysWOW64\\mshta.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\Users\\TRIOPH~1\\AppData\\Local\\Temp\\is-O5D26.tmp\\NetFxLite.tmp"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\Windows\\SysWOW64\\PING.EXE"
+		},
+		{
+			"count" : 1,
+			"path" : "C:\\Program Files (x86)\\AOMEI Backupper\\ValidCheck.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\Windows\\SysWOW64\\explorer.exe"
+		},
+		{
+			"count" : 1,
+			"path" : "f:\\831aeb3653db8f9ae38d3853\\install.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\AMD\\Packages\\Drivers\\Radeon-Crimson-ReLive-17.4.3-amdkmafd-win10-64bit-170417WHQL.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\Program Files\\Common Files\\Autodesk Shared\\DirectConnect2016 (64-bit)\\Setup_DC\\Setup\\Setup.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\Program Files\\Common Files\\Autodesk Shared\\DirectConnect2016 (64-bit)\\bin\\Aruba\\Inventor Server\\Bin\\RegisterInventorServer.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\Program Files (x86)\\Windows Kits\\8.1\\bin\\x86\\rc.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\Program Files (x86)\\VulkanRT\\1.0.39.1\\ConfigureRT.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\Program Files (x86)\\OpenAL\\oalinst.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\Users\\TRIOPH~1\\AppData\\Local\\Temp\\5E7637E3-293E-4DCF-A3EB-F68EA17AD04C\\dismhost.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "c:\\Users\\Triophore-2\\Documents\\Visual Studio 2013\\Projects\\ANTLRLang\\.nuget\\NuGet.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\Program Files (x86)\\Pandora Recovery\\Uninstall.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\WINDOWS\\Microsoft.NET\\Framework64\\v4.0.30319\\ngen.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\Windows\\Microsoft.NET\\Framework64\\v4.0.30319\\mscorsvw.exe"
+		},
+		{
+			"count" : 1,
+			"path" : "C:\\Program Files (x86)\\Windows Movie Maker\\unins000.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\Program Files (x86)\\iSkysoft\\Phone Transfer\\unins000.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\Windows\\Microsoft.NET\\Framework64\\v4.0.30319\\caspol.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\WINDOWS\\system32\\dxdiag.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\Windows\\Microsoft.NET\\Framework64\\v4.0.30319\\MSBuild.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "F:\\G\\Epic\\Epic Games\\Launcher\\Portal\\Binaries\\Win64\\EpicGamesLauncher.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\WINDOWS\\SYSTEM32\\taskkill.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\Users\\TRIOPH~1\\AppData\\Local\\Temp\\632386BF-4BFF-40A7-B8C1-569B54C74D38\\dismhost.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "F:\\G\\Epic\\Epic Games\\Launcher\\Engine\\Binaries\\Win64\\UnrealCEFSubProcess.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\Users\\TRIOPH~1\\AppData\\Local\\Temp\\CB9F9D13-B011-4952-8AA6-BC3A95108B1F\\dismhost.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\WINDOWS\\SysWOW64\\regedit.exe"
+		},
+		{
+			"count" : 1,
+			"path" : "f:\\b4de603dea6a09bd8f7a513292\\Setup.exe"
+		},
+		{
+			"count" : 10,
+			"path" : "C:\\Program Files\\WindowsApps\\microsoft.windowscommunicationsapps_17.8016.42007.0_x64__8wekyb3d8bbwe\\HxTsr.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "g:\\bin\\win64\\setup.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\Windows\\syswow64\\icacls.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\Users\\TRIOPH~1\\AppData\\Local\\Temp\\06E55361-D240-4395-A203-CE7B164A2FF2\\dismhost.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\Program Files (x86)\\Epic Games\\Launcher\\Portal\\Binaries\\Win64\\EpicGamesLauncher.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "F:\\G\\NodeEditorWinforms-master\\NodeEditorWinforms-master\\MathSample\\bin\\Debug\\MathSample.vshost.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\Users\\TRIOPH~1\\AppData\\Local\\Temp\\80C14BE1-356C-4A59-98B7-375EDD485275\\dismhost.exe"
+		},
+		{
+			"count" : 1,
+			"path" : "C:\\Program Files (x86)\\Epic Games\\Launcher\\Engine\\Binaries\\Win64\\UnrealCEFSubProcess.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\Program Files\\Git\\mingw64\\libexec\\git-core\\git.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "F:\\G\\Epic\\Epic Games\\DirectXRedist\\DXSETUP.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\Users\\TRIOPH~1\\AppData\\Local\\Temp\\{CF44F6D6-F7EB-49F1-A2E7-1D0A8DC6B07F}\\.cr\\SetupMegunoLinkPro.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "F:\\Arduino\\arduino-1.6.8\\hardware\\tools\\avr\\bin\\avr-gcc.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\PROGRA~1\\TrueKey\\MCEC1D~1.EXE"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "F:\\G\\Epic\\Epic Games\\Launcher\\Portal\\Binaries\\Win32\\EpicGamesLauncher.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\Users\\Triophore-2\\Desktop\\arduino-1.8.3\\tools-builder\\ctags\\5.8-arduino11\\ctags.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\Users\\Triophore-2\\AppData\\Local\\Adobe\\C9A5861D-4130-4DAD-A20A-AFA5640D07C1\\gtcheck.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "F:\\G\\Epic\\Epic Games\\Launcher\\Portal\\SelfUpdateStaging\\Install\\Portal\\Extras\\Redist\\LauncherPrereqSetup_x64.exe"
+		},
+		{
+			"count" : 8,
+			"path" : "C:\\Users\\TRIOPH~1\\AppData\\Local\\Temp\\DX3BF1.tmp\\infinst.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\Program Files\\Epic Games\\UE_4.15\\Engine\\Extras\\Redist\\en-us\\UE4PrereqSetup_x64.exe"
+		},
+		{
+			"count" : 10,
+			"path" : "C:\\Program Files\\Git\\bin\\git.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\Users\\TRIOPH~1\\AppData\\Local\\Temp\\is-KS297.tmp\\Composer-Setup.tmp"
+		},
+		{
+			"count" : 1,
+			"path" : "F:\\UE Github\\UnrealEngine\\Engine\\Binaries\\Win64\\UnrealVersionSelector-Win64-Shipping.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\Users\\Triophore-2\\AppData\\Local\\Google\\Chrome\\User Data\\SwReporter\\18.100.0\\software_reporter_tool.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\Windows\\Microsoft.NET\\Framework\\v2.0.50727\\RegAsm.exe"
+		},
+		{
+			"count" : 5,
+			"path" : "F:\\G\\Epic\\Epic Games\\Launcher\\Engine\\Binaries\\Win64\\UnrealVersionSelector.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\Users\\TRIOPH~1\\AppData\\Local\\Temp\\66C33CD8-5A9C-45B2-980A-57D99207CC01\\dismhost.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\WINDOWS\\SysWOW64\\CertUtil.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\Users\\Triophore-2\\AppData\\Local\\UnrealEngine\\4.15\\Saved\\Swarm\\SwarmCache\\Jobs\\Job-9ED7592A-45AF36F0-ABEC19B6-66D886D8\\UnrealLightmass.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\Users\\Triophore-2\\Desktop\\arduino-1.8.3\\java\\bin\\javaw.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\Users\\Triophore-2\\AppData\\Local\\UnrealEngine\\4.15\\Saved\\Swarm\\SwarmCache\\Jobs\\Job-74806702-4EE99EA9-8EE93280-A83302DC\\UnrealLightmass.exe"
+		},
+		{
+			"count" : 8,
+			"path" : "C:\\Program Files\\WindowsApps\\Microsoft.MicrosoftOfficeHub_17.8017.5925.0_x64__8wekyb3d8bbwe\\Office16\\OfficeHubTaskHost.exe"
+		},
+		{
+			"count" : 2,
+			"path" : "C:\\Program Files\\Epic Games\\UE_4.15\\Engine\\Binaries\\DotNET\\IOS\\IPhonePackager.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\Program Files (x86)\\Accord.NET\\Samples\\Neuro\\Perceptron\\bin\\x86\\Debug\\Perceptron.exe"
+		},
+		{
+			"count" : 2,
+			"path" : "C:\\ProgramData\\Adobe\\ARM\\{291AA914-A987-4CE9-BD63-AC0A92D435E5}\\ServicesUpdater.exe"
+		},
+		{
+			"count" : 1,
+			"path" : "f:\\7871cb7f0695553169\\install.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\WINDOWS\\system32\\UNP\\UNPUXLauncher.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\Users\\TRIOPH~1\\AppData\\Local\\Temp\\SETUP_45749\\Engine.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\Program Files\\Microsoft Office\\Office15\\WINWORD.EXE"
+		},
+		{
+			"count" : 4,
+			"path" : "C:\\Program Files (x86)\\Altium\\AD16\\System\\Drivers\\x64\\USBInstaller.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\Program Files (x86)\\Altium\\AD16\\dxp.exe"
+		},
+		{
+			"count" : 2,
+			"path" : "C:\\PROGRAM FILES (X86)\\ALTIUM\\AD16\\System\\ADElevator.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\Users\\TRIOPH~1\\AppData\\Local\\Temp\\is-PT07C.tmp\\Set-up.tmp"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "F:\\monero\\Claymore CryptoNote GPU Miner v9.7 Beta - POOL Catalyst 15.12\\Claymore CryptoNote GPU Miner v9.7 Beta - POOL\\NsGpuCNMiner.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\Program Files (x86)\\Microsoft Visual Studio 14.0\\VC\\bin\\xdcmake.exe"
+		},
+		{
+			"count" : 1,
+			"path" : "C:\\PROGRAM FILES (X86)\\ALTIUM\\AD16\\Subversion Client\\svn.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\Users\\TRIOPH~1\\AppData\\Local\\Temp\\Rar$EXa0.088\\Adobe Illustrator CS6 Full Version Free (WINDOWS)\\Illustrator_16_LS16\\Adobe Illustrator CS6\\payloads\\AdobeHelp\\AdobeAIRInstaller.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\Users\\TRIOPH~1\\AppData\\Local\\Temp\\Rar$EXa0.088\\Adobe Illustrator CS6 Full Version Free (WINDOWS)\\Illustrator_16_LS16\\Adobe Illustrator CS6\\payloads\\Microsoft VC 2005 Redist (x86)\\vcredist_x86.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\Program Files\\WindowsApps\\Microsoft.ZuneMusic_10.17022.10301.0_x64__8wekyb3d8bbwe\\Music.UI.exe"
+		},
+		{
+			"count" : 10,
+			"path" : "C:\\Program Files\\WindowsApps\\microsoft.windowscommunicationsapps_17.8104.42387.0_x64__8wekyb3d8bbwe\\HxTsr.exe"
+		},
+		{
+			"count" : 10,
+			"path" : "C:\\Program Files\\WindowsApps\\Microsoft.ZuneVideo_10.17022.10311.0_x64__8wekyb3d8bbwe\\Video.UI.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\Users\\TRIOPH~1\\AppData\\Local\\Temp\\{8A569773-A364-4374-9AE5-524056E5B60E}\\.cr\\python-3.6.2-amd64-webinstall.exe"
+		},
+		{
+			"count" : 1,
+			"path" : "f:\\d58e5ebb3e488b4d8d93f9e22743\\install.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\Users\\TRIOPH~1\\AppData\\Local\\Temp\\is-UVO9I.tmp\\ipscan24.tmp"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\Users\\Triophore-2\\AppData\\Local\\Google\\Chrome\\User Data\\SwReporter\\17.97.3\\software_reporter_tool.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\Users\\TRIOPH~1\\AppData\\Local\\Temp\\3AFB3CEC-FD58-4653-9AE5-5140509209B6\\dismhost.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\WINDOWS\\System32\\poqexec.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\WINDOWS\\system32\\sihost.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\WINDOWS\\system32\\MDMAgent.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\WINDOWS\\SysWOW64\\Macromed\\Temp\\{BBCF13D8-AB22-4CAC-A202-914BD5A0D0BC}\\InstallFlashPlayer.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\Windows\\system32\\userinit.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\Users\\TRIOPH~1\\AppData\\Local\\Temp\\FA5554E4-D551-4D5C-84E4-CA30FA4C54A1\\dismhost.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\WINDOWS\\SysWOW64\\DllHost.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\WINDOWS\\system32\\backgroundTaskHost.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\Users\\TRIOPH~1\\AppData\\Local\\Temp\\is-TK6K6.tmp\\DrFoneToolKitAndroid.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\Python34\\Scripts\\pip.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\Program Files (x86)\\iSkysoft\\Phone Transfer\\MTDaemon.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\WINDOWS\\System32\\Taskmgr.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\Program Files (x86)\\Motorola Mobility\\Motorola Device Manager\\MotoHelperAgent.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\Users\\Triophore-2\\Downloads\\Programs\\syncdroid.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\Users\\Triophore-2\\documents\\visual studio 2013\\Projects\\CSVMaker\\CSVMaker\\bin\\Debug\\CSVMaker.vshost.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\AMD\\Packages\\Apps\\Radeon-Crimson-ReLive-17.4.3-ccc-zh-cht64-64bit-170417WHQL.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\Users\\TRIOPH~1\\AppData\\Local\\Temp\\4130647C-9FB3-4E12-BAE3-0436BB4B4635\\dismhost.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\Users\\Triophore-2\\AppData\\Local\\UnrealEngine\\4.15\\Saved\\Swarm\\SwarmCache\\Jobs\\Job-FD138426-4F8CB024-68028184-4BBDB362\\UnrealLightmass.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\Users\\Triophore-2\\AppData\\Local\\MiPhoneManager\\main\\MiAdminHelper.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\Program Files\\SpeedTree\\SpeedTree for Unreal Engine 4 Subscription v7.1.5\\Win32\\vcredist_x86.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\Program Files\\SpeedTree\\SpeedTree for Unreal Engine 4 Subscription v7.1.5\\Win64\\vcredist_x64.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\Users\\TRIOPH~1\\AppData\\Local\\Temp\\is-2DHV2.tmp\\SpeedTree_for_UE4_Subscription_Windows.tmp"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\Users\\Triophore-2\\AppData\\Local\\Temp\\Rar$EXa0.674\\SpeedTree_for_UE4_Subscription_Windows.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\Users\\TRIOPH~1\\AppData\\Local\\Temp\\Rar$EXa0.674\\SpeedTree_for_UE4_Subscription_Windows.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\Users\\TRIOPH~1\\AppData\\Local\\Temp\\is-L1T2K.tmp\\SpeedTree_for_UE4_Subscription_Windows.tmp"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\Users\\TRIOPH~1\\AppData\\Local\\Temp\\02DC840F-5D18-4CDC-8948-D9076F99F723\\dismhost.exe"
+		},
+		{
+			"count" : 1,
+			"path" : "f:\\e163c13ef6a24081d751\\Setup.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\Users\\TRIOPH~1\\AppData\\Local\\Temp\\139F76F2-81CE-4280-84FD-2CE386C40481\\dismhost.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\Program Files\\WindowsApps\\microsoft.windowscommunicationsapps_17.8400.40745.0_x64__8wekyb3d8bbwe\\HxTsr.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\WINDOWS\\system32\\RdrLeakDiag.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\AMD\\Packages\\Apps\\Radeon-Crimson-ReLive-17.4.3-ccc-ru64-64bit-170417WHQL.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\Program Files (x86)\\Microsoft Visual Studio 14.0\\VC\\bin\\amd64\\link.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\Program Files\\SpeedTree\\SpeedTree for Unreal Engine 4 Subscription v7.1.5\\Win64\\SpeedTree Modeler UE4 Subscription.exe"
+		},
+		{
+			"count" : 1,
+			"path" : "C:\\Program Files\\SpeedTree\\SpeedTree for Unreal Engine 4 Subscription v7.1.5\\exporters\\SRT_7x_Exporter.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\WINDOWS\\Microsoft.NET\\Framework\\v4.0.30319\\ngen.exe"
+		},
+		{
+			"count" : 1,
+			"path" : "C:\\Program Files\\SpeedTree\\SpeedTree for Unreal Engine 4 Subscription v7.1.5\\Win64\\SpeedTree Compiler UE4.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\Program Files (x86)\\Microsoft Visual Studio 12.0\\Common7\\IDE\\devenv.exe"
+		},
+		{
+			"count" : 1,
+			"path" : "C:\\Program Files\\SpeedTree\\SpeedTree for Unreal Engine 4 Subscription v7.1.5\\Win64\\SpeedTree Compiler UE4.com"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\Program Files\\WindowsApps\\microsoft.windowscommunicationsapps_17.8021.42367.0_x64__8wekyb3d8bbwe\\HxTsr.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\Program Files (x86)\\Microsoft Visual Studio 14.0\\Common7\\IDE\\Extensions\\Microsoft\\Web Tools\\External\\node\\node.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\Program Files (x86)\\Microsoft Visual Studio 14.0\\Common7\\IDE\\XDesProc.exe"
+		},
+		{
+			"count" : 1,
+			"path" : "F:\\monero\\NiceHashMiner_v1.7.5.7\\NiceHashMiner_v1.7.5.7\\CudaDeviceDetection.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\WINDOWS\\winsxs\\amd64_microsoft-windows-servicingstack_31bf3856ad364e35_10.0.14393.1439_none_7efe016621f50bd0\\TiWorker.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\Users\\TRIOPH~1\\AppData\\Local\\Temp\\52347251-24F5-41F0-9038-1524E37F8D29\\dismhost.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\Program Files\\Lumion 6.0\\Lumion.exe"
+		},
+		{
+			"count" : 1,
+			"path" : "F:\\monero\\NiceHashMiner_v1.7.5.7\\NiceHashMiner_v1.7.5.7\\AMDOpenCLDeviceDetection.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\Users\\TRIOPH~1\\AppData\\Local\\Temp\\EDE29A75-C56A-4A88-ABD6-C03AB7743534\\dismhost.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\Users\\TRIOPH~1\\AppData\\Local\\Temp\\1F5D77F2-1234-4C7D-B8A9-557987064037\\dismhost.exe"
+		},
+		{
+			"count" : 1,
+			"path" : "F:\\monero\\NiceHashMiner_v1.7.5.7\\NiceHashMiner_v1.7.5.7\\bin\\vc_redist.x64.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\WINDOWS\\SoftwareDistribution\\Download\\Install\\infremove.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\Program Files (x86)\\Microsoft Silverlight\\5.1.50906.0\\coregen.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\Users\\TRIOPH~1\\AppData\\Local\\Temp\\CB1C1D06-6BF9-4A3F-80DF-42385BA18CE2\\dismhost.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\Program Files\\MATLAB\\R2016b\\bin\\matlab.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\Program Files (x86)\\Common Files\\McAfee\\Installer\\10.0.3017.0\\mcinst.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\Users\\TRIOPH~1\\AppData\\Local\\Temp\\Rar$EXa0.386\\RakhniDecryptor.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\Users\\TRIOPH~1\\AppData\\Local\\Temp\\{33E657BF-BE8D-44E8-9957-9D494F273916}\\{8FCA4E21-6483-4C57-A9DA-69FBD37B518E}.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "F:\\wallet\\RakhniDecryptor.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\Program Files (x86)\\Nmap\\npcap-0.93.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\ProgramData\\Package Cache\\{17551f85-1d1c-4142-a83f-bbd18a3522c2}\\VS2013.5.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\WINDOWS\\SysWOW64\\WerFault.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\Program Files\\Microsoft SQL Server\\120\\LocalDB\\Binn\\sqlservr.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\Users\\TRIOPH~1\\AppData\\Local\\Temp\\7B7106DF-2EE0-4B5C-A21E-BD3DE85E8112\\dismhost.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\Users\\Triophore-2\\AppData\\Local\\Adobe\\C9A5861D-4130-4DAD-A20A-AFA5640D07C1\\gccheck_small.exe"
+		},
+		{
+			"count" : 1,
+			"path" : "f:\\6b4e1f28e5e4998c611fc740\\install.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\PROGRA~1\\TrueKey\\MCAFEE~2.EXE"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\Users\\TRIOPH~1\\AppData\\Local\\Temp\\3D603689-9AC9-4742-B3B6-C4449F269CAA\\dismhost.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\Users\\Triophore-2\\Videos\\Demo\\Samples\\bin\\Debug\\Samples.vshost.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\WINDOWS\\system32\\mcbuilder.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "c:\\users\\triophore-2\\appdata\\local\\google\\chrome\\user data\\swreporter\\20.115.3\\software_reporter_tool.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\Program Files (x86)\\Altium\\AD16\\DXP.EXE"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\Program Files (x86)\\Altium\\AD16\\AltiumMS.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "F:\\G\\ScintillaNET.Demo\\ScintillaNET.Demo\\bin\\Debug\\ScintillaNET.Demo.vshost.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\Program Files\\Microsoft Office\\Office15\\POWERPNT.EXE"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\Program Files (x86)\\Foxit Software\\Foxit Reader\\FoxitReader.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\Users\\TRIOPH~1\\AppData\\Local\\Temp\\4CED6152-5BA7-47FE-808F-D5326F5593D0\\dismhost.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\Users\\TRIOPH~1\\AppData\\Local\\Temp\\9ADC39C1-C699-4602-ADEA-266C58FD9146\\dismhost.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\AMD\\Packages\\Apps\\Radeon-Crimson-ReLive-17.4.3-ccc-sv64-64bit-170417WHQL.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\Program Files\\AVAST Software\\SZBrowser\\Temp\\SafeZone Installer\\opera_installer_20170731094535\\installer.exe"
+		},
+		{
+			"count" : 1,
+			"path" : "f:\\7f3db825c43b27454da260228689b0ed\\install.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\Program Files (x86)\\Microsoft XDE\\8.0\\XdeCleanup.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "F:\\code\\NetworkViewSampleCode\\NetworkViewSampleCode\\SimpleSample\\bin\\Debug\\SimpleSample.vshost.exe"
+		},
+		{
+			"count" : 1,
+			"path" : "f:\\74c35688a4a1385bad98d6d4ab\\install.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\Program Files (x86)\\Common Files\\microsoft shared\\TextTemplating\\12.0\\TextTransform.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\Windows\\Microsoft.NET\\Framework\\v4.0.30319\\csc.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\Users\\TRIOPH~1\\AppData\\Local\\Temp\\160A9C2F-7782-4EA3-B0DB-96EC952D3ED1\\dismhost.exe"
+		},
+		{
+			"count" : 10,
+			"path" : "C:\\Program Files (x86)\\Microsoft SDKs\\Windows\\v10.0A\\bin\\NETFX 4.6.1 Tools\\AL.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\Users\\Triophore-2\\AppData\\Local\\Adobe\\OOBE\\PDApp\\DECore\\Setup.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "F:\\code\\Dynamo-master\\Dynamo-master\\bin\\AnyCPU\\Release\\DynamoSandbox.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\WINDOWS\\SysWOW64\\WerFaultSecure.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\Program Files (x86)\\Wondershare\\Wondershare TunesGo (Win) - Android Devices\\TunesGo.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\PROGRAM FILES (X86)\\MICROSOFT VISUAL STUDIO 14.0\\COMMON7\\IDE\\COMMONEXTENSIONS\\MICROSOFT\\TESTWINDOW\\vstest.discoveryengine.x86.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\Users\\TRIOPH~1\\AppData\\Local\\Temp\\63966921-C5ED-4AE7-B030-6746EAB1CF55\\dismhost.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\Program Files\\Git\\mingw64\\libexec\\git-core\\git-remote-https.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\Program Files\\Git\\cmd\\git.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "F:\\G\\VS2015Tools\\TASLang\\support\\anltr4test\\anltr4test\\bin\\Debug\\anltr4test.vshost.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\Program Files (x86)\\nodejs\\node.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\Users\\Triophore-2\\Downloads\\Programs\\glade-3-8-5-installer.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\Users\\Triophore-2\\AppData\\Local\\GNOME Foundation\\Glade Interface Designer Gtk+ 2\\bin\\glade-3.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\WINDOWS\\TEMP\\CR_CB653.tmp\\setup.exe"
+		},
+		{
+			"count" : 1,
+			"path" : "f:\\4bc1b18b5ed31d1d0878d11d\\install.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\antlrworks2\\bin\\antlrworks264.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\Users\\TRIOPH~1\\AppData\\Local\\Temp\\is-N56LI.tmp\\Set-up.tmp"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\EAGLE 8.0.1\\eagle.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\Windows\\System32\\wuapihost.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\WINDOWS\\SysWOW64\\werfault.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\Users\\Triophore-2\\Downloads\\Programs\\phone-transfer_setup_full1898.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "c:\\users\\triophore-2\\documents\\visual studio 2013\\Projects\\ironjs\\ironjs\\bin\\Debug\\ironjs.vshost.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\Program Files (x86)\\Google\\Update\\1.3.33.5\\GoogleUpdateComRegisterShell64.exe"
+		},
+		{
+			"count" : 1,
+			"path" : "f:\\ccd1d1abbd76007951335e4485\\install.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\WINDOWS\\SysWOW64\\ByteCodeGenerator.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\Users\\TRIOPH~1\\AppData\\Local\\Temp\\CD30508E-16A6-4B02-925D-31E52162047E\\dismhost.exe"
+		},
+		{
+			"count" : 10,
+			"path" : "C:\\Program Files\\WindowsApps\\microsoft.windowscommunicationsapps_17.8104.42377.0_x64__8wekyb3d8bbwe\\HxTsr.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\ProgramData\\Package Cache\\56FC3C24-E635-3607-BDF4-506BEB006132\\packages\\vsupdate_KB2829760\\Preparation.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\Users\\TRIOPH~1\\AppData\\Local\\Temp\\{EFF3A14A-D371-4366-A7F4-5515C087E413}\\.cr\\python-3.6.2-amd64-webinstall.exe"
+		},
+		{
+			"count" : 1,
+			"path" : "f:\\66ef85bbeb2c7737ee237557e22a79\\install.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\Users\\TRIOPH~1\\AppData\\Local\\Temp\\6B4B5C03-029E-44CC-8077-308C7D27535F\\dismhost.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\ProgramData\\Package Cache\\C4AC45564E801E1BFD87936CAC8A76C5754CDBD4\\packages\\vcRedistD11\\1033\\vcredist_x64.exe"
+		},
+		{
+			"count" : 1,
+			"path" : "f:\\34d861dc1454692c114952b143\\install.exe"
+		},
+		{
+			"count" : 2,
+			"path" : "F:\\G\\VS2015Tools\\TASLang\\support\\TypeCobol-master\\bin\\Debug\\TypeCobol.Transform.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\WINDOWS\\SysWOW64\\ctfmon.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\Program Files (x86)\\Google\\Chrome\\Application\\58.0.3029.96\\Installer\\setup.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "F:\\android studio 2\\android-studio\\lib\\libpty\\win\\x86_64\\winpty-agent.exe"
+		},
+		{
+			"count" : 1,
+			"path" : "f:\\20b31a1fbbfe38cfe2\\install.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "F:\\G\\Wide-master\\Build\\WideMD.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\Users\\TRIOPH~1\\AppData\\Local\\Temp\\8328CAB9-B63B-4B63-8708-39F55508A25A\\dismhost.exe"
+		},
+		{
+			"count" : 1,
+			"path" : "f:\\9e0aee9084712664a59260dca388bc\\install.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\Program Files (x86)\\Microsoft Visual Studio 14.0\\VC\\bin\\bscmake.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\Program Files (x86)\\Common Files\\Adobe\\ARM\\1.0\\armsvc.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\Program Files\\WindowsApps\\Microsoft.ZuneVideo_10.17062.12911.0_x64__8wekyb3d8bbwe\\Video.UI.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\Windows\\syswow64\\lodctr.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\WINDOWS\\Installer\\MSI5A9A.tmp"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\AMD\\Packages\\Apps\\Radeon-Crimson-ReLive-17.4.3-vc1564-64bit-170417WHQL.exe"
+		},
+		{
+			"count" : 4294967295,
+			"path" : "C:\\WINDOWS\\Installer\\MSIF1EE.t

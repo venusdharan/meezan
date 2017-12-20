@@ -1,0 +1,28 @@
+{
+  "name": "triophore",
+  "authors": [
+    "Venu  S Dharan <venusdharan@gmail.com>"
+  ],
+  "description": "web development framework by triophore technologies",
+  "main": "index.php",
+  "license": "MIT",
+  "homepage": "www.triophore.com",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^3.2.1",
+    "bootstrap": "^3.3.7",
+    "font-awesome": "^4.7.0",
+    "normalize-css": "normalize.css#^7.0.0",
+    "animate.css": "^3.5.2",
+    "iCheck": "icheck#^1.0.2",
+    "Ionicons": "ionicons#^2.0.1",
+    "PACE": "pace-js#^1.0.2",
+    "fuelux": "^3.16.1"
+  }
+}

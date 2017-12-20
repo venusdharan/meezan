@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<User xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Key>SerialKey</Key>
+  <UserName>123456789</UserName>
+  <MasjidName>TestMazjid</MasjidName>
+  <Email>123456789</Email>
+  <Phone>123456789</Phone>
+  <Address>123456789123456789123456789</Address>
+</User>

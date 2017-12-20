@@ -1,0 +1,7 @@
+{
+    "basejs":"modules/table/js/",
+    "basecss":"modules/table/css/",
+    "basemain":["cat.js"],
+    "js":[],
+    "css":[]
+}

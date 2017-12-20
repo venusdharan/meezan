@@ -1,0 +1,7 @@
+{
+    "basejs":"modules/table/js/",
+    "basecss":"modules/table/css/",
+    "basemain":["ward.js"],
+    "js":[],
+    "css":[]
+}

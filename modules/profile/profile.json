@@ -1,0 +1,7 @@
+{
+    "basejs":"modules/profile/source/",
+    "basecss":"modules/profile/source/",
+    "basemain":"modules/profile/source/profile.js",
+    "js":["jquery.mousewheel-3.0.6.pack.js","jquery.fancybox.pack.js","helpers/jquery.fancybox-buttons.js","helpers/jquery.fancybox-media.js","helpers/jquery.fancybox-buttons.js"],
+    "css":["jquery.fancybox.css","helpers/jquery.fancybox-buttons.css","helpers/jquery.fancybox-thumbs.css"]
+}

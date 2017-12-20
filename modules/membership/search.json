@@ -1,0 +1,7 @@
+{
+    "basejs":"modules/membership/js/",
+    "basecss":"modules/membership/css/",
+    "basemain":["search.js"],
+    "js":["datatables.min.js"],
+    "css":["datatables.bootstrap.min.css","table.css"]
+}

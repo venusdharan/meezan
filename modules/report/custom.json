@@ -1,0 +1,7 @@
+{
+    "basejs":"modules/report/js/",
+    "basecss":"modules/report/css/",
+    "basemain":["custom.js"],
+    "js":[],
+    "css":[]
+}

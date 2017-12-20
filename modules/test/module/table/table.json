@@ -1,0 +1,7 @@
+{
+    "basejs":"modules/table/js/",
+    "basecss":"modules/table/css/",
+    "basemain":"modules/table/js/table.js",
+    "js":["datatables.min.js"],
+    "css":["datatables.min.css","table.css"]
+}

@@ -1,0 +1,7 @@
+{
+    "basejs":"modules/modules/js/",
+    "basecss":"modules/modules/css/",
+    "basemain":["install.js"],
+    "js":["dropzone.js"],
+    "css":["dropzone.css","basic.css"]
+}

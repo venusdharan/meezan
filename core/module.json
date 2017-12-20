@@ -1,0 +1,9 @@
+{
+    "name": "Triophore-2",
+    "author":"Venu S Dharan",
+    "url":"http://google.co.in",
+    "license": "MIT",
+    "description": "web development framework by triophore technologies",
+    "dependencies":[],
+    "version":"1.2.3"
+}

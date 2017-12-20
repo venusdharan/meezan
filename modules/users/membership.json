@@ -1,0 +1,7 @@
+{
+    "basejs":"modules/users/js/",
+    "basecss":"modules/users/css/",
+    "basemain":["membership.js"],
+    "js":["jquery.sortable.min.js"],
+    "css":[]
+}

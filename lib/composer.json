@@ -1,0 +1,9 @@
+{
+    "require": {
+        "bramus/router": "~1.0",
+        "mpdf/mpdf": "^7.0",
+        "twig/twig": "^2.0",
+        "catfan/Medoo": "^1.5",
+        "phpoffice/phpexcel": "^1.8"
+    }
+}

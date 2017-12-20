@@ -1,0 +1,7 @@
+{
+    "basejs":"modules/home/js/",
+    "basecss":"modules/home/css/",
+    "basemain":["home.js"],
+    "js":[],
+    "css":[]
+}
