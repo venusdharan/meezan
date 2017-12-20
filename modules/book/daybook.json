@@ -1,0 +1,7 @@
+{
+    "basejs":"modules/book/js/",
+    "basecss":"modules/book/css/",
+    "basemain":["daybook.js"],
+    "js":["datatables.min.js","bootstrap-datepicker.min.js"],
+    "css":["datatables.bootstrap.min.css","table.css","bootstrap-datepicker.css"]
+}

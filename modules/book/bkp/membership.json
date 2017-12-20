@@ -1,0 +1,7 @@
+{
+    "basejs":"modules/table/js/",
+    "basecss":"modules/table/css/",
+    "basemain":["membership.js"],
+    "js":["datatables.min.js","bootstrap-datepicker.min.js"],
+    "css":["datatables.bootstrap.min.css","table.css","bootstrap-datepicker.min.css"]
+}

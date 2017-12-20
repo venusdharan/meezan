@@ -1,0 +1,7 @@
+{
+    "basejs":"modules/book/js/",
+    "basecss":"modules/book/css/",
+    "basemain":["expense_type.js"],
+    "js":[],
+    "css":[]
+}

@@ -1,0 +1,7 @@
+{
+    "basejs":"modules/book/js/",
+    "basecss":"modules/book/css/",
+    "basemain":["expense.js"],
+    "js":["datatables.min.js","bootstrap-datetimepicker.min.js"],
+    "css":["datatables.bootstrap.min.css","table.css","bootstrap-datetimepicker.css"]
+}
